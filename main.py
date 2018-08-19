@@ -1,0 +1,135 @@
+from tensorboardX import SummaryWriter
+from sklearn.metrics import accuracy_score
+
+import torch
+import torch.nn as nn
+from torch import optim
+import torch.nn.functional as F
+
+
+from util import GutenbergConstructor
+
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+embedding_dim = 100
+
+class CNN_Classification(nn.Module):
+    def __init__(self, embedding_weights, hidden_size, embedding_dim, n_words, output_size):
+        super(CNN_Classification, self).__init__()
+
+        self.hidden_size = hidden_size
+
+        self.embedding = nn.Embedding(n_words, embedding_dim)
+        if embedding_weights is not None:
+            self.embedding.weight.data.copy_(torch.from_numpy(embedding_weights))
+            # self.embedding.requires_grad = False
+
+        self.dropout = nn.Dropout(0.5)
+        self.max_pool = nn.MaxPool1d(2)
+
+        self.cnn1 = nn.Conv1d(embedding_dim, hidden_size, 7)
+        self.activ1 = nn.PReLU(hidden_size)
+        self.norm1 = nn.LayerNorm(hidden_size)
+
+        self.cnn2 = nn.Conv1d(hidden_size, hidden_size*2, 7)
+        self.activ2 = nn.PReLU(hidden_size*2)
+        self.norm2 = nn.LayerNorm(hidden_size*2)
+
+        self.cnn3 = nn.Conv1d(hidden_size*2, hidden_size*4, 7)
+        self.activ3 = nn.PReLU(hidden_size*4)
+        self.norm3 = nn.LayerNorm(hidden_size*4)
+
+        self.penultimate_layer = nn.Linear(hidden_size*4, hidden_size*4)
+        self.activ4 = nn.PReLU(hidden_size*4)
+        self.norm4 = nn.LayerNorm(hidden_size*4)
+
+        self.final_layer = nn.Linear(hidden_size*4, output_size)
+        self.sigmoid = nn.Sigmoid()
+
+    def forward(self, input):
+        x = self.embedding(input)
+
+        # x = self.dropout(embedded)
+        # Why do I have to do this
+        x = self.cnn1(x.transpose(-1, -2))
+        x = self.norm1(x)
+        x = self.activ1(x)
+        x = self.max_pool(x)
+
+        # x = self.dropout(x)
+        x = self.cnn2(x)
+        x = self.norm2(x)
+        x = self.activ2(x)
+        x = self.max_pool(x)
+
+        # x = self.dropout(x)
+        x = self.cnn3(x)
+        x = self.norm3(x)
+        x = self.activ3(x)
+        x = F.max_pool1d(x, kernel_size=x.shape[-1]).view(-1, self.hidden_size*4)
+
+        # x = self.dropout(x)
+        x = self.penultimate_layer(x)
+        x = self.norm4(x)
+        x = self.activ4(x)
+
+        # x = self.dropout(x)
+        x = self.final_layer(x.view(x.shape[0], -1))
+        return x
+
+
+def reptile_author_recognition(examples_size=512, examples=10, different_authors=5, hidden_size=64):
+    meta_env = GutenbergConstructor()
+    inner_lr = 0.01
+    outer_lr = 0.001
+
+    writer = SummaryWriter('AuthorRecognition/ex_size_' + str(example_size))
+
+    model = CNN_Classification(meta_env.glove_embedding, hidden_size, 100, meta_env.n_words, different_authors).to(device)
+    meta_model = CNN_Classification(meta_env.glove_embedding, hidden_size, 100, meta_env.n_words, different_authors).to(device)
+
+    criterion = nn.CrossEntropyLoss()
+
+    for ep in range(500000):
+        x, y, val_x, val_y = meta_env.get_n_task(different_authors, examples, examples_size)
+
+        meta_model.load_state_dict(model.state_dict())
+        optimizer = optim.SGD(params=meta_model.parameters(), lr=inner_lr)
+        for i in range(10):
+            meta_model.train()
+            pred = meta_model(x)
+            loss = criterion(pred, y)
+
+            optimizer.zero_grad()
+            loss.backward()
+            optimizer.step()
+
+            accuracy = accuracy_score(pred.detach().cpu().numpy(), y.cpu().numpy())
+
+            writer.add_scalar('Loss at ' + str(i), loss.item(), ep)
+            writer.add_scalar('Accuracy at ' + str(i), accuracy, ep)
+
+            meta_model.eval()
+            test_out = meta_model(val_x)
+            val_loss = criterion(test_out, val_y)
+
+            val_accuracy = accuracy_score(test_out.detach().cpu().numpy(), val_y.cpu().numpy())
+
+            writer.add_scalar('Val loss at ' + str(i), val_loss.item(), ep)
+
+        #     if ep % 5000 == 0:
+        #         res, = plt.plot(test_out.detach().numpy())
+        #         plt.legend([res], [str(i) + '_result'])
+        # if ep % 5000 == 0:
+        #     base, = plt.plot(val_y.numpy())
+        #     plt.legend([base], 'Base truth')
+        #     plt.savefig('runs/' + str(ep) + '_val')
+        #     plt.clf()
+
+        old_state_dict = model.state_dict()
+        for p in old_state_dict:
+            old_state_dict[p] = old_state_dict[p] * (1 - outer_lr) + meta_model.state_dict()[p] * outer_lr
+        model.load_state_dict(old_state_dict)
+
+
+if __name__ == '__main__':
+    reptile_author_recognition()
