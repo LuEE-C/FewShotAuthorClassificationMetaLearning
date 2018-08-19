@@ -15,7 +15,7 @@ class RegressionModel(nn.Module):
     def __init__(self):
         super(RegressionModel, self).__init__()
         self.lin1 = nn.Linear(1, 64)
-        self.norm1 = nn.LayerNorm(64)
+        self.norm1 = nn.LayerNorm(e)
         self.lin2 = nn.Linear(64, 64)
         self.norm2 = nn.LayerNorm(64)
         self.lin3 = nn.Linear(64, 1)
