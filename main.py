@@ -80,7 +80,7 @@ def reptile_author_recognition(examples_size=512, examples=10, different_authors
     inner_lr = 0.01
     outer_lr = 0.001
 
-    writer = SummaryWriter('AuthorRecognition/ex_size_' + str(examples_size))
+    writer = SummaryWriter('AuthorRecognition)
 
     model = CNN_Classification(meta_env.glove_embedding, hidden_size, 100, meta_env.n_words, different_authors, examples_size).to(device)
     meta_model = CNN_Classification(meta_env.glove_embedding, hidden_size, 100, meta_env.n_words, different_authors, examples_size).to(device)
@@ -120,7 +120,7 @@ def reptile_author_recognition(examples_size=512, examples=10, different_authors
             old_state_dict[p] = old_state_dict[p] * (1 - outer_lr) + meta_model.state_dict()[p] * outer_lr
         model.load_state_dict(old_state_dict)
 
-        if ep % 10000 == 0:
+        if ep % 50000 == 0:
             torch.save(model.state_dict(), 'model_' + str(ep))
 
 
