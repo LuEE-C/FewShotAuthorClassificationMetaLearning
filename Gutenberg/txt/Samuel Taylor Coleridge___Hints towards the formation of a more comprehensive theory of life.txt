@@ -1,0 +1,2425 @@
+
+   *Hints Towards the Formation of a More Comprehensive Theory Of Life*
+
+                           *by S. T. Coleridge*
+
+                     *Edited by Seth B. Watson, M.D.*
+
+                          Of St. John’s College,
+
+       And Formerly One of the Physicians to the Hospital at Oxford
+
+       Magna sunt opera Domini exquisita in omnes voluntates ejus.
+
+               London: John Churchill, Princes Street, Soho
+
+                               MDCCCXLVIII.
+
+             *C. and J. Adlard, Printers, Bartholomew Close*
+
+
+
+
+
+CONTENTS
+
+
+Preface.
+Physiology Of Life.
+The Nature Of Life.
+Advertisements.
+Footnotes
+
+
+
+
+
+
+ADVERTISEMENT.
+
+
+The Editor takes this opportunity of returning his best acknowledgments to
+Sir JOHN STODDART, LL.D., to the Rev. JAMES GILLMAN, Incumbent of Trinity,
+Lambeth, and to HENRY LEE, Esq., Assistant Surgeon to King’s College
+Hospital, for their great kindness, in regard to this publication.
+
+_16, Norfolk Street, Park Lane._
+
+
+
+
+
+PREFACE.
+
+
+The accompanying pages contain the unfinished Sketch of a Theory of Life
+by S. T. Coleridge. Everything that fell from the pen of that
+extraordinary man bore latent, as well as more obvious indications of
+genius, and of its inseparable concomitant—originality. To this general
+remark the present Essay is far from forming an exception. No one can
+peruse it, without admiring the author’s comprehensive research and
+profound meditation; but at the same time, partly from the exuberance of
+his imagination, and partly from an apparent want of method (though, in
+truth, he had a method of his own, by which he marshalled his thoughts in
+an order perfectly intelligible to himself), a first perusal will, to many
+readers, prove unsatisfactory, unless they are prepared for it by an
+introduction of a more popular character. This purpose, therefore, I shall
+endeavour to accomplish; it being to be understood that I by no means make
+myself responsible either for Mr. Coleridge’s speculations, or for the
+manner in which they are enunciated; and that, on the contrary, I shall
+occasionally indicate views from which I dissent, and expressions which
+perhaps the author himself, on revision, would have seen reason to
+correct.
+
+It is clear that Mr. Coleridge considers the unity of human nature to
+result from two combined elements, Body and Soul; that he regards the
+latter as the principle of Reason and of Conscience (both which he has
+largely treated in his published works), and that the “Life,” which he
+here investigates, concerns, in relation to mankind, only the Body. He is
+far, however, from confining the term “Life” to its action on the human
+body; on the contrary, he disclaims the division of all that surrounds us
+into things with life, and things without life; and contends, that the
+term Life is no less applicable to the irreducible _bases_ of chemistry,
+such as sodium, potassium, &c., or to the various forms of crystals, or
+the geological strata which compose the crust of our globe, than it is to
+the human body itself, the acme and perfection of animal organization. I
+admit that there are certain great powers, such as magnetism, electricity,
+and chemistry, whose action may be traced, even by the limited means which
+science at present possesses, in admirable gradation, from purely
+unorganized to the most highly organized matter: and, I think, that Mr.
+Coleridge has done this with great ingenuity and striking effect; but what
+I object to is, that he applies to the combined operation of these powers,
+in all cases, the term _Life_. If we look back to the early history of
+language, we shall probably find that this word, and its synonymes in
+other tongues, were first employed to denote _human_ life, that is, the
+duration of a human being’s existence from birth to the grave. As this
+existence was marked by actions, many of which were common to man with
+other animals, those animals also were said to “live;” but the extension
+of the notion of Life to the vegetable creation is comparatively a recent
+usage,—and hitherto (in this country at least) no writer before Mr.
+Coleridge, so far as I know, has maintained that rocks and mountains, nay,
+“the great globe itself,” share with mankind the gift of Life. On the
+other hand, there are well known and energetic uses of the word “Life,” to
+which Mr. Coleridge’s speculations, as contained in the accompanying
+pages, are wholly inapplicable. Almost all nations, even the most savage,
+agree in the belief that individuals of the human race, after they have
+ceased to exist in this mortal life, will exist in another state, to which
+also the word Life is universally applied; but to this latter Mr.
+Coleridge’s views of magnetism, electricity, &c., can hardly be thought
+applicable. Still less can they apply to “Life” in its spiritual sense;
+as, when Moses says to the Jews, “the words of the law are your _life_,”
+(Deut. xxxii, 47,) and when our Saviour says, “the words that I speak unto
+you, they are spirit, and they are _life_;” (John, vi, 63;) and again, “I
+am the resurrection and the life,” (John, xi, 25.) Upon the whole,
+therefore, I think it would have been advisable in Mr. Coleridge to have
+adopted a different phraseology, in tracing the operation of certain
+natural agencies first on unorganized, and then on organized bodies.
+
+Another word, of which I consider an improper use to be made in this
+Essay, is “Nature.” I find this imaginary being introduced on all
+occasions, and invested with attributes of personality, which may be
+extremely apt to make a false impression on young or thoughtless minds. At
+one time, “the life of Nature” is spoken of; then we are informed that
+“Nature has succeeded. _She_ has created the intermediate link between the
+vegetable world and the animal.” Again, it is said that “Nature seems to
+fall back, and to reexert _herself_ on the lower ground, which _she_ had
+before occupied;”—and elsewhere we are told that “Nature never loses what
+_she_ has once learnt; though in the acquirement of each new power _she_
+intermits or performs less energetically the act immediately preceding.
+_She_ often drops a faculty, but never fails to pick it up again. _She_
+may seem forgetful and absent; but it is only to recollect _herself_ with
+additional as well as recruited vigour in some after and higher state.”
+Now the word “Nature,” in any intelligible sense, means nothing but that
+method and order by which the Almighty regulates the common course of
+things. Nature is not a person; it is not active; it neither creates nor
+performs actions more or less energetically, nor learns, nor forgets, nor
+reexerts itself, nor recruits its vigour. Perhaps it will be said that all
+this is merely figurative language. Figurative language is very much
+misplaced in strict philosophical investigations; and these particular
+figures, which might be quite consistent with the atheistical philosophy
+of Lucretius, sound ill in the mouth of a pious Christian, which Mr.
+Coleridge undoubtedly was. He probably adopted them unconsciously from
+Bacon; but Bacon’s use of the word Nature ought rather to have served as a
+warning than an example; for it has contributed, in no small degree, to
+the atheistical philosophy of recent times.
+
+The prevalent natural philosophy of the present day is that which is
+called _corpuscular_, because it assumes the existence of a first matter,
+consisting of _corpuscula_ or atoms, which are supposed to be definite,
+though extremely small, _quantities_, invested with the _qualities_ of
+extension, impenetrability, and the like; and from certain combinations of
+these qualities, Life is considered, by some persons, to be a necessary
+result. This philosophy Mr. Coleridge combats. The supposed atoms, he
+says, are mere abstractions of the mind; and Life is not a thing, the
+result of atomic arrangement or action, but is itself an act, or process.
+He refutes various definitions of Life, such as, that it is the sum of all
+the functions by which death is resisted; or, that it depends on the
+faculty of nutrition, or of anti-putrescence. His own definition he
+proposes merely as an hypothesis. Life, he says, is “the principle of
+Individuation,” that is to say, it is a power which discloses itself from
+within, combining many qualities into one individual thing. This
+individualising principle unites, as he conceives, with the cooperating
+action of magnetism, electricity, and chemistry. At least, such is the
+inference to be drawn from the present state of science; though it is
+easily conceivable that future discoveries may bring us acquainted with
+powers more directly connected with Life. The most general law governing
+the action of Life, as a tendency to individuation, is here designated
+_polarity_; for instance, the power termed magnetism (not meaning that
+there is necessarily an actual tangible magnet in the case) has two poles,
+the negative, answering to attraction, rest, carbon, &c., and the
+positive, answering to repulsion, mobility, azote, &c.; and as the
+magnetic needle which points to the north necessarily indicates thereby
+the south, so the power disposing to rest has necessarily a counteracting
+influence disposing to mobility, between which lies the point of
+indifference. Now this quality, to which Mr. Coleridge gives the name of
+polarity, is in truth nothing more than an exemplification of the doctrine
+of opposites, the πρός ἂλληλα ἀντικειμένω ἀντίθεσις, which the Eleatic
+Philosopher, in Plato’s “Sophist,” applies to the idea of existence and
+non-existence, and which accompanies every other idea as its shadow,
+whether in physics, in intellect, or in morals; for the finite is opposed
+to the infinite, the false to the true, the evil to the good, and so
+forth; which we say, not to derogate from the value of Mr. Coleridge’s
+application of the doctrine, of which he has very ably availed himself;
+but merely to explain the term polarity, by referring it, as a species, to
+a higher genus of intellectual conceptions.
+
+Reverting to the three powers before mentioned, it is not to be
+understood, that on Mr. Coleridge’s hypothesis of Life, they ever act
+separately; but in the different modifications of Life, at one time the
+power of magnetism predominates, at another that of electricity, and at
+another that of chemistry. Magnetism is stated to act as a line,
+electricity as a surface, and chemistry as a solid; for all which Mr.
+Coleridge refers to certain physical experiments. The predominance of
+magnetism is characterised by reproduction, that of electricity by
+irritability; and irritability, which first appears as muscle, gradually
+rises into sensibility as nerve. The limits of a mere introduction will
+not permit me to examine Mr. Coleridge’s first principles more in detail;
+and I can but briefly notice their application to the successive stages of
+ascent, from the first rudiments of individualised Life, in the lowest
+classes of the mineral, vegetable, and animal creation, to its crown and
+consummation in the human body. Beginning with magnetism, by which, in its
+widest sense, he means what he improperly calls the first and simplest
+differential act of _Nature_ (he should rather have said the first and
+simplest conception that we can form of a differential act of God, in the
+work of creation), he supposes the pre-existence of chaos, not, indeed, in
+the Miltonic sense—
+
+“For hot, cold, moist, and dry, four champions fierce,
+Strive _there_ for mast’ry, and to battle bring
+Their embryon atoms,—”
+
+but rather as one vast homogeneous fluid, and even _that_ he suggests not
+as a historical fact, but as the appropriate symbol of a great fundamental
+truth. The first effort of magnetic power, the first step from
+indifference to difference, from formless homogeneity to independent
+existence, is seen in the tranquil deposition of crystals; and an
+increasing tendency to difference is observable in the increasing
+multitude of strata, till we come to organic life; of which the vegetable
+and animal worlds may be regarded as opposite poles; carbon prevailing in
+the former and azote in the latter; and vegetation being characterised by
+the predominance of magnetism in its highest power, as reproduction;
+whilst the animal tribes evince the power of electricity, as shown in
+irritability and sensibility. Passing over the forms of vegetation, we
+come to the polypi, corallines, &c., in which individuality appears in its
+first dawn; for a multitude of animals form, as it were, a common animal,
+and different genera pass into each other, almost indistinguishably. The
+tubipora of the corals connects with the serpula of the conchylia. In the
+_mollusca_ the separation of organs becomes more observable; in the higher
+species there are rudiments of nerves, and an exponent, though scarcely
+distinguishable, of sensibility. In the snail, and muscle, the separation
+of the fluid from the solid is more marked, yet the prevalence of the
+carbonic principle connects these and the preceding classes, in a certain
+degree, with the vegetable creation. “But the _insect_ world, taken at
+large (says Mr. Coleridge) appears as an intense _Life_, that has
+struggled itself loose, and become emancipated from vegetation—_Floræ
+liberti, et libertini_!” In insects we first find the distinct
+commencement of a separation between the muscular system, that is, organs
+of irritability, and the nervous system, that is, organs of sensibility;
+the former, however, maintaining a pre-eminence throughout, and the nerves
+themselves being probably subservient to the motory power. With the fishes
+begins an internal system of bones, but these are the results of a
+comparatively imperfect formation, being in general little more than mere
+gristle. In birds we find a sort of synthesis of the powers of fish and
+insects. In all three, the powers are under the predominance of
+irritability; but sensibility, which is dormant in the insect, begins to
+awaken in the fish, and, though still subordinate, is quite awake in the
+bird, of which no better proof can be given than its power of sound, with
+the rudiments of modulation, in the large class of singing birds, and in
+some others a tendency to acquire and to imitate articulate speech. The
+next step of ascent brings us to the _mammalia_; and in these, including
+beasts and men, the complete and universal presence of a nervous system
+raises sensibility to its due place and rank among the animal powers.
+Finally, in Man the whole force of organic power attains an inward and
+centripetal direction, and the “apex of the living pyramid”becomes a fit
+receptacle for Reason and Conscience.
+
+                                * * * * *
+
+It is much to be regretted, that the estimable Author did not live to put
+a finishing hand to this Essay; but the part completed involves
+speculations of so interesting a nature, and presents such striking marks
+of deep and original thought, that the Editor, to whose hands it was
+committed, did not feel himself justified in withholding it from the
+judgment of the public.
+
+
+
+
+
+PHYSIOLOGY OF LIFE.
+
+
+                              Introduction.
+
+
+When we stand before the bust of John Hunter, or as we enter the
+magnificent museum furnished by his labours, and pass slowly, with
+meditative observation, through this august temple, which the genius of
+one great man has raised and dedicated to the wisdom and uniform working
+of the Creator, we perceive at every step the guidance, we had almost
+said, the inspiration, of those profound ideas concerning Life, which dawn
+upon us, indeed, through his written works, but which he has here
+presented to us in a more perfect language than that of words—the language
+of God himself, as uttered by Nature.
+
+That the true idea of Life existed in the mind of John Hunter I do not
+entertain the least doubt; but it may, perhaps, be doubted whether his
+incessant occupation, and his stupendous industry in the service, both of
+his contemporaries and of posterity, added to his comparatively slight
+acquaintance with the arts and aids of logical arrangement, permitted him
+fully to unfold and arrange it in distinct, clear, and communicable
+conceptions. Assuredly, however, I may, without incurring the charge of
+arrogance or detraction, venture to assert that, in his writings the light
+which occasionally flashes upon us seems at other times, and more
+frequently, to struggle through an unfriendly medium, and even sometimes
+to suffer a temporary occultation. At least, in order to dissipate the
+undeniable obscurities, and to reconcile the apparent contradictions found
+in his works,—to distinguish, in short, the numerous passages in which
+without, perhaps, losing sight internally of his own peculiar belief, he
+yet falls into the phraseology and mechanical solutions of his age,—we
+must distinguish such passages from those in which the form corresponds to
+the substance, and in which, therefore, the nature and essential laws of
+vital action are expressed, as far as his researches had unveiled them to
+his own mind, without disguise. To effect this, we must, as it were, climb
+up on his shoulders, and look at the same objects in a distincter form,
+because seen from the more commanding point of view furnished by himself.
+This has, indeed, been more than once attempted already, and, in one
+instance, with so evident a display of power and insight as announces in
+the assertor and vindicator of the Hunterian Theory a congenial intellect,
+and a disciple in whom Hunter himself would have exulted. Would that this
+attempt had been made on a larger scale, that the writer to whom I
+refer(1) had in consequence developed his opinions systematically, and
+carried them yet further back, even to their ultimate principle!
+
+But this the scientific world has yet to expect; or it is more than
+probable that the present humble endeavour would have been superseded, or
+confined, at least, to the task of restating the opinion of my predecessor
+with such modifications as the differences that will always exist between
+men who have thought independently, and each for himself, have never
+failed to introduce, even on problems of far easier and more obvious
+solution.
+
+Without further preface or apology, therefore, I shall state at once my
+objections to all the definitions that have hitherto been given of Life,
+as meaning too much or too little, with an exception, however, in favour
+of those which mean nothing at all; and even these last must, in certain
+cases, receive an honour they do not merit, and be confuted, or rather
+detected, on account of their too general acceptance, and the incalculable
+power of words over the minds of men in proportion to the remoteness of
+the subject from the cognizance of the senses.
+
+It would be equally presumptuous and unreasonable should I, with a late
+writer on this subject, “exhort the reader to be particularly on his guard
+against loose and indefinite expressions;” but I perfectly agree that they
+are the bane of all science, and have been remarkably injurious in the
+different departments of physiology.
+
+
+
+
+
+THE NATURE OF LIFE.
+
+
+    On The Definitions Of Life Hitherto Received. Hints Towards A More
+                          Comprehensive Theory.
+
+
+The attempts to explain the nature of Life, which have fallen within my
+knowledge, presuppose the arbitrary division of all that surrounds us into
+things with life, and things without life—a division grounded on a mere
+assumption. At the best, it can be regarded only as a hasty deduction from
+the first superficial notices of the objects that surround us, sufficient,
+perhaps, for the purpose of ordinary discrimination, but far too
+indeterminate and diffluent to be taken unexamined by the philosophic
+inquirer. The positions of science must be tried in the jeweller’s scales,
+not like the mixed commodities of the market, on the weigh-bridge of
+common opinion and vulgar usage. Such, however, has been the procedure in
+the present instance, and the result has been answerable to the coarseness
+of the process. By a comprisal of the _petitio principii_ with the
+_argumentum in circulo_,—in plain English, by an easy logic, which begins
+with begging the question, and then moving in a circle, comes round to the
+point where it began,—each of the two divisions has been made to define
+the other by a mere reassertion of their assumed contrariety. The
+physiologist has luminously explained Y plus X by informing us that it is
+a somewhat that is the antithesis of Y minus X; and if we ask, what then
+is Y-X? the answer is, the antithesis of Y+X,—a reciprocation of great
+service, that may remind us of the twin sisters in the fable of the Lamiæ,
+with but one eye between them both, which each borrowed from the other as
+either happened to want it; but with this additional disadvantage, that in
+the present case it is after all but an eye of glass. The definitions
+themselves will best illustrate our meaning. I will begin with that given
+by Bichat. “Life is the sum of all the functions by which death is
+resisted,” in which I have in vain endeavoured to discover any other
+meaning than that life consists in being able to live. This author, with a
+whimsical gravity, prefaces his definition with the remark, that the
+nature of life has hitherto been sought for in _abstract_ considerations;
+as if it were possible that four more inveterate abstractions could be
+brought together in one sentence than are here assembled in the words,
+life, death, function, and resistance. Similar instances might be cited
+from Richerand and others. The word Life is translated into other more
+learned words; and this _paraphrase_ of the _term_ is substituted for the
+_definition_ of the _thing_, and therefore (as is always the case in every
+_real_ definition as contra-distinguished from a _verbal_ definition,) for
+at least a partial _solution_ of the _fact_. Such as these form the
+_first_ class.—The second class takes some one particular function of Life
+common to all living objects,—nutrition, for instance; or, to adopt the
+phrase most in vogue at present, assimilation, for the purposes of
+reproduction and growth. Now this, it is evident, can be an appropriate
+definition only of the very lowest species, as of a Fungus or a Mollusca;
+and just as comprehensive an idea of the mystery of Life, as a Mollusca
+might give, can this definition afford. But this is not the only
+objection. For, _first_, it is not pretended that we begin with seeking
+for an organ evidently appropriated to nutrition, and then infer that the
+substance in which such an organ is found _lives_. On the contrary, in a
+number of cases among the obscurer animals and vegetables we infer the
+organ from the pre-established fact of its life. _Secondly_, it identifies
+the process itself with a certain range of its forms, those, namely, by
+which it is manifested in animals and vegetables. For this, too, no less
+than the former, presupposes the arbitrary division of all things into not
+living and lifeless, on which, as I before observed, all these definitions
+are grounded. But it is sorry logic to take the proof of an affirmative in
+one thing as the proof of the negative in another. All animals that have
+lungs breathe, but it would be a childish oversight to deduce the
+converse, viz. all animals that breathe have lungs. The theory in which
+the French chemists organized the discoveries of Black, Cavendish,
+Priestly, Scheele, and other English and German philosophers, is still,
+indeed, the reigning theory, but rather, it should seem, from the absence
+of a rival sufficiently popular to fill the throne in its stead, than from
+the continuance of an implicit belief in its own stability. We no longer
+at least cherish that intensity of faith which, before Davy commenced his
+brilliant career, had not only identified it with chemistry itself, but
+had substituted its nomenclature, even in common conversation, for the far
+more philosophic language which the human race had abstracted from the
+laboratory of Nature. I may venture to prophecy that no future Beddoes
+will make it the corival of the mathematical sciences in demonstrative
+evidence. I think it a matter of doubt whether, during the period of its
+supposed infallibility, physiology derived more benefit from the
+extension, or injury from the misdirection, of its views. Enough of the
+latter is fresh in recollection to make it but an equivocal compliment to
+a physiological position, that it must stand or fall with the corpuscular
+philosophy, as modified by the French theory of chemistry. Yet should it
+happen (and the event is not impossible, nor the supposition altogether
+absurd,) that more and more decisive facts should present themselves in
+confirmation of the metamorphosis of elements, the position that life
+consists in assimilation would either cease to be distinctive, or fall
+back into the former class as an identical proposition, namely, that Life,
+meaning by the word that sort of growth which takes place by means of a
+peculiar organization, consists in that sort of growth which is peculiar
+to organized life. _Thirdly_, the definition involves a still more
+egregious flaw in the reasoning, namely, that of _cum hoc, ergo propter
+hoc_ (or the assumption of causation from mere coexistence); and this,
+too, in its very worst form. For it is not _cum hoc solo, ergo propter
+hoc_, which would in many cases supply a presumptive proof by induction,
+but _cum hoc, et plurimis aliis, ergo propter hoc_! Shell, of some kind or
+other, is common to the whole order of testacea, but it would be absurd to
+define the _vis vitæ_ of testaceous animals as existing in the shell,
+though we know it to be the constant accompaniment, and have every reason
+to believe the constant effect, of the specific life that acts in those
+animals. Were we (_argumenti __ causá_) to imagine shell coextensive with
+the organized creation, this would produce no abatement in the falsity of
+the reasoning. Nor does the flaw stop here; for a physiological, that is a
+real, definition, as distinguished from the verbal definitions of
+lexicography, must consist neither in any single property or function of
+the thing to be defined, nor yet in all collectively, which latter,
+indeed, would be a history, not a definition. It must consist, therefore,
+in the _law_ of the thing, or in such an _idea_ of it, as, being admitted,
+all the properties and functions are admitted by implication. It must
+likewise be so far _causal_, that a full insight having been obtained of
+the law, we derive from it a progressive insight into the necessity and
+_generation_ of the phenomena of which it is the law. Suppose a disease in
+question, which appeared always accompanied with certain symptoms in
+certain stages, and with some one or more symptoms in all stages—say
+deranged digestion, capricious alternation of vivacity and languor,
+headache, dilated pupil, diminished sensibility to light, &c.—Neither the
+man who selected the one constant symptom, nor he who enumerated all the
+symptoms, would give the scientific definition _talem scilicet, quali
+scientia fit vel datur_, but the man who at once named and defined the
+disease hydrocephalus, producing pressure on the brain. For it is the
+essence of a scientific definition to be causative, not by introduction of
+imaginary somewhats, natural or supernatural under the name of causes, but
+by announcing the law of action in the particular case, in subordination
+to the common law of which all the phenomena are modifications or results.
+
+Now in the definition on which, as the representative of a whole class, we
+are _now_ animadverting, a single effect is given as constituting the
+cause. For nutrition by digestion is certainly necessary to life, only
+under certain circumstances, but that life is previously necessary to
+digestion is absolutely certain under all circumstances. Besides, what
+other phenomenon of Life would the conception of assimilation, _per se_,
+or as it exists in the lowest order of animals, involve or explain? How,
+for instance, does it include sensation, locomotion, or habit? or if the
+two former should be taken as distinct from life, _toto genere_, and
+supervenient to it, we then ask what conception is given of _vital_
+assimilation as contradistinguished from that of the nucleus of a crystal?
+
+_Lastly_, this definition confounds the Law of Life, or the primary and
+universal form of vital agency, with the conception, Animals. For the
+kind, it substitutes the representative of its degrees and modifications.
+But the first and most important office of science, physical or
+physiological, is to contemplate the power in kind, abstracted from the
+degree. The ideas of caloric, whether as substance or property, and the
+conceptions of latent heat, the heat in ice, &c., that excite the wonder
+or the laughter of the vulgar, though susceptible of the most important
+practical applications, are the result of this abstraction; while the only
+purpose to which a definition like the preceding could become subservient,
+would be in supplying a nomenclature with the character of the most common
+species of a genus—its _genus generalissimum_, and even this would be
+useless in the present instance, inasmuch as it presupposes the knowledge
+of the things characterised.
+
+The third class, and far superior to the two former, selects some property
+characteristic of all living bodies, not merely found in all _animals_
+alike, but existing equally in all parts of all living things, both
+animals and plants. Such, for instance, is the definition of Life, as
+consisting in anti-putrescence, or the power of resisting putrefaction.
+Like all the others, however, even this confines the idea of Life to those
+degrees or concentrations of it, which manifest themselves in organized
+beings, or rather in those the organization of which is apparent to us.
+Consequently, it substitutes an abstract term, or generalization of
+effects, for the idea, or superior form of causative agency. At best, it
+describes the _vis vitá_ by one only of its many influences. It is
+however, as we have said before, preferable to the former, because it is
+not, as they are, altogether unfruitful, inasmuch as it attests, less
+equivocally than any other sign, the presence or absence of that degree of
+the _vis vitá_ which is the necessary condition of organic or
+self-renewing power. It throws no light, however, on the law or principle
+of action; it does not increase our insight into the other phenomena; it
+presents to us no _inclusive_ form, out of which the other forms may be
+developed, and finally, its defect as a definition may be detected by
+generalizing it into a higher formula, as a power which, during its
+continuance, resists or subordinates heterogeneous and adverse powers. Now
+this holds equally true of chemical relatively to the mechanical powers;
+and really affirms no more of Life than may be equally affirmed of every
+form of being, namely, that it tends to preserve itself, and resists, to a
+certain extent, whatever is incompatible with the laws that constitute its
+particular state for the time being. For it is not true only of the great
+divisions or classes into which we have found it expedient to distinguish,
+while we generalize, the powers acting in nature, as into intellectual,
+vital, chemical, mechanical; but it holds equally true of the degrees, or
+species of each of these genera relatively to each other: as in the
+decomposition of the alkalies by heat, or the galvanic spark. Like the
+combining power of Life, the copula here resists for awhile the attempts
+to dissolve it, and then yields, to reappear in new phenomena.
+
+It is a wonderful property of the human mind, that when once a momentum
+has been given to it in a fresh direction, it pursues the new path with
+obstinate perseverance, in all conceivable bearings, to its utmost
+extremes. And by the startling consequences which arise out of these
+extremes, it is first awakened to its error, and either recalled to some
+former track, or receives some fresh impulse, which it follows with the
+same eagerness, and admits to the same monopoly. Thus in the 13th century
+the first science which roused the intellects of men from the torpor of
+barbarism, was, as in all countries ever has been, and ever must be the
+case, the science of _Metaphysics_ and _Ontology_. We first seek what can
+be found at home, and what wonder if truths, that appeared to reveal the
+secret depths of our own souls, should take possession of the whole mind,
+and all truths appear trivial which could not either be evolved out of
+similar principles, by the same process, or at least brought under the
+same forms of thought, by perceived or imagined analogies? And so it was.
+For more than a century men continued to invoke the oracle of their own
+spirits, not only concerning its own forms and modes of being, but
+likewise concerning the laws of external nature. All attempts at
+philosophical explication were commenced by a mere effort of the
+understanding, as the power of abstraction; or by the imagination,
+transferring its own experiences to every object presented from without.
+By the former, a class of phenomena were in the first place abstracted,
+and fixed in some general term: of course this could designate only the
+impressions made by the outward objects, and so far, therefore, having
+been thus metamorphosed, they were effects of these objects; but then made
+to supply the place of their own causes, under the name of occult
+qualities. Thus the properties peculiar to gold, were abstracted from
+those it possessed in common with other bodies, and then generalized in
+the term _Aureity_: and the inquirer was instructed that the Essence of
+Gold, or the cause which constituted the peculiar modification of matter
+called gold, was the power of aureity. By the latter, _i.e._ by the
+imagination, thought and will were superadded to the occult quality, and
+every form of nature had its appropriate Spirit, to be controlled or
+conciliated by an appropriate ceremonial. This was entitled its
+SUBSTANTIAL FORM. Thus, physic became a sort of dull poetry, and the art
+of medicine (for physiology could scarcely be said to exist) was a system
+of magic, blended with traditional empiricism. Thus the forms of thought
+proceeded to act in their own emptiness, with no attempt to fill or
+substantiate them by the information of the senses, and all the branches
+of science formed so many sections of logic and metaphysics. And so it
+continued, even to the time that the Reformation sounded the second
+trumpet, and the authority of the schools sank with that of the hierarchy,
+under the intellectual courage and activity which this great revolution
+had inspired. Power, once awakened, cannot rest in one object. All the
+sciences partook of the new influences. The world of experimental
+philosophy was soon mapped out for posterity by the comprehensive and
+enterprising genius of Bacon, and the laws explained by which experiment
+could be dignified into experience.(2) But no sooner was the impulse
+given, than the same propensity was made manifest of looking at all things
+in the one point of view which chanced to be of predominant attraction.
+Our Gilbert, a man of genuine philosophical genius, had no sooner
+multiplied the facts of magnetism, and extended our knowledge concerning
+the property of magnetic bodies, but all things in heaven, and earth, and
+in the waters beneath the earth, were resolved into magnetic influences.
+
+Shortly after a new light was struck by Harriott and Descartes, with their
+contemporaries, or immediate predecessors, and the restoration of ancient
+geometry, aided by the modern invention of algebra, placed the science of
+mechanism on the philosophic throne. How widely this domination spread,
+and how long it continued, if, indeed, even now it can be said to have
+abdicated its pretensions, the reader need not be reminded. The sublime
+discoveries of Newton, and, together with these, his not less fruitful
+than wonderful application, of the higher mathesis to the movements of the
+celestial bodies, and to the laws of light, gave almost a religious
+sanction to the corpuscular system and mechanical theory. It became
+synonymous with philosophy itself. It was the sole portal at which truth
+was permitted to enter. The human body was treated of as an hydraulic
+machine, the operations of medicine were solved, and alas! even directed
+by reference partly to gravitation and the laws of motion, and partly by
+chemistry, which itself, however, as far as its theory was concerned, was
+but a branch of mechanics working exclusively by imaginary wedges, angles,
+and spheres. Should the reader chance to put his hand on the “Principles
+of Philosophy,” by La Forge, an immediate disciple of Descartes, he may
+see the phenomena of sleep solved in a copper-plate engraving, with all
+the figures into which the globules of the blood shaped themselves, and
+the results demonstrated by mathematical calculations. In short, from the
+time of Kepler(3) to that of Newton, and from Newton to Hartley, not only
+all things in external nature, but the subtlest mysteries of life and
+organization, and even of the intellect and moral being, were conjured
+within the magic circle of mathematical formulæ. And now a new light was
+struck by the discovery of electricity, and, in every sense of the word,
+both playful and serious, both for good and for evil, it may be affirmed
+to have electrified the whole frame of natural philosophy. Close on its
+heels followed the momentous discovery of the principal gases by Scheele
+and Priestly, the composition of water by Cavendish, and the doctrine of
+latent heat by Black. The scientific world was prepared for a new dynasty;
+accordingly, as soon as Lavoisier had reduced the infinite variety of
+chemical phenomena to the actions, reactions, and interchanges of a few
+elementary substances, or at least excited the expectation that this would
+speedily be effected, the hope shot up, almost instantly, into full faith,
+that it had been effected. Henceforward the new path, thus brilliantly
+opened, became the common road to all departments of knowledge: and, to
+this moment, it has been pursued with an eagerness and almost epidemic
+enthusiasm which, scarcely less than its political revolutions,
+characterise the spirit of the age. Many and inauspicious have been the
+invasions and inroads of this new conqueror into the rightful territories
+of other sciences; and strange alterations have been made in less harmless
+points than those of terminology, in homage to an art unsettled, in the
+very ferment of imperfect discoveries, and either without a theory, or
+with a theory maintained only by composition and compromise. Yet this very
+circumstance has favoured its encroachments, by the gratifications which
+its novelty affords to our curiosity, and by the keener interest and
+higher excitement which an unsettled and revolutionary state is sure to
+inspire. He who supposes that science possesses an immunity from such
+influences knows little of human nature. How, otherwise, could men of
+strong minds and sound judgments have attempted to penetrate by the clue
+of chemical experiment the secret recesses, the sacred adyta of organic
+life, without being aware that chemistry must needs be at its extreme
+limits, when it has approached the threshold of a higher power? Its own
+transgressions, however, and the failure of its enterprises will become
+the means of defining its absolute boundary, and we shall have to guard
+against the opposite error of rejecting its aid altogether as analogy,
+because we have repelled its ambitious claims to an identity with the
+vital powers.
+
+                                * * * * *
+
+Previously to the submitting my own ideas on the subject of life, and the
+powers into which it resolves itself, or rather in which it is manifested
+to us, I have hazarded this apparent digression from the anxiety to
+_preclude certain suspicions_, which the subject itself is so fitted to
+awaken, and while I anticipate the charges, to plead in answer to each a
+full and unequivocal—not guilty!
+
+In the first place, therefore, I distinctly disclaim all intention of
+explaining life into an occult quality; and retort the charge on those who
+can satisfy themselves with defining it as the peculiar power by which
+death is resisted.
+
+Secondly. Convinced—by revelation, by the consenting authority of all
+countries, and of all ages, by the imperative voice of my own conscience,
+and by that wide chasm between man and the noblest animals of the brute
+creation, which no perceivable or conceivable difference of organization
+is sufficient to overbridge—that I have a rational and responsible soul, I
+think far too reverentially of the same to degrade it into an hypothesis,
+and cannot be blind to the contradiction I must incur, if I assign that
+soul which I believe to constitute the peculiar nature of man as the cause
+of functions and properties, which man possesses in common with the oyster
+and the mushroom.(4)
+
+Thirdly, while I disclaim the error of Stahl in deriving the phenomena of
+life from the unconscious actions of the rational soul, I repel with still
+greater earnestness the assertion and even the supposition that the
+functions are the offspring of the structure, and “Life(5) the result of
+organization,” connected with it as effect with cause. Nay, the position
+seems to me little less strange, than as if a man should say, that
+building with all the included handicraft, of plastering, sawing, planing,
+&c. were the offspring of the house; and that the mason and carpenter were
+the result of a suite of chambers, with the passages and staircases that
+lead to them. To make A the offspring of B, when the very existence of B
+as B presupposes the existence of A, is preposterous in the _literal_
+sense of the word, and a consummate instance of the _hysteron proteron_ in
+logic. But if I reject the organ as the cause of that, of which it is the
+organ, though I might admit it among the _conditions_ of its actual
+functions; for the same reason, I must reject _fluids_ and _ethers_ of all
+kinds, magnetical, electrical, and universal, to whatever quintessential
+thinness they may be treble distilled, and (as it were)
+super-substantiated. With these, I abjure likewise all _chemical_
+agencies, compositions, and decompositions, were it only that as
+stimulants they suppose a stimulability _sui generis_, which is but
+another paraphrase for life. Or if they are themselves at once both the
+excitant and the excitability, I miss the connecting link between this
+imaginary ether and the visible body, which then becomes no otherwise
+distinguished from inanimate matter, than by its juxtaposition in mere
+space, with an heterogeneous inmate, the cycle of whose actions revolves
+within itself. Besides which I should think that I was confounding
+metaphors and realities most absurdly, if I imagined that I had a greater
+insight into the meaning and possibility of a living alcohol, than of a
+living quicksilver. In short, visible _surface_ and _power_ of any kind,
+much more the _power_ of life, are ideas which the very forms of the human
+understanding make it impossible to identify. But whether the powers which
+manifest themselves to us under certain conditions in the forms of
+electricity, or chemical attraction, have any analogy to the power which
+manifests itself in growth and organization, is altogether a different
+question, and demands altogether a different chain of reasoning: if it be
+indeed a tree of knowledge, it will be known by its fruits, and these will
+depends not on the mere assertion, but on the inductions by which the
+position is supported, and by the additions which it makes to our insight
+into the nature of the facts it is meant to illustrate.
+
+To _account_ for Life is one thing; to explain Life another. In the first
+we are supposed to state something prior (if not in time, yet in the order
+of Nature) to the thing accounted for, as the ground or cause of that
+thing, or (which comprises the meaning and force of both words) as its
+_sufficient cause, quae et facit, et subest_. And to this, in the question
+of Life, I know no possible answer, but GOD. To account for a thing is to
+see into the principle of its possibility, and from that principle to
+evolve its being. Thus the mathematician demonstrates the truths of
+geometry by constructing them. It is an admirable remark of Joh. Bapt. a
+Vico, in a Tract published at Naples, 1710,(6) “Geometrica ideò
+demonstramus, quia facimus; physica si demonstrare possimus, faceremus.
+Metaphysici veri claritas eadem ac lucis, quam non nisi per opaca
+cognoscimus; nam non lucem sed lucidas res videmus. Physica sunt opaca,
+nempe formata et finita, in quibus Metaphysici veri lumen videmus.” The
+reasoner who assigns structure or organization as the antecedent of Life,
+who names the former a cause, and the _latter_ its effect, _he_ it is who
+pretends to account for life. Now Euclid would, with great right, demand
+of such a philosopher to _make_ Life; in the same sense, I mean, in which
+Euclid makes an Icosahedron, or a figure of twenty sides, namely, in the
+understanding or by an intellectual construction. An argument which, of
+itself, is sufficient to prove the untenable nature of Materialism.
+
+To explain a power, on the other hand, is (the power itself being assumed,
+though not comprehended, _ut qui datur, non intelligitur_) to unfold or
+spread it out: _ex implicito planum facere_. In the present instance, such
+an explanation would consist in the reduction of the idea of Life to its
+simplest and most comprehensive form or mode of action; that is, to some
+characteristic _instinct_ or _tendency_, evident in all its
+manifestations, and involved in the idea itself. This assumed as existing
+in _kind_, it will be required to present an ascending series of
+corresponding phenomena as involved _in_, proceeding _from_, and so far
+therefore explained _by_, the supposition of its progressive intensity and
+of the gradual enlargement of its sphere, the necessity of which again
+must be contained in the idea of the tendency itself. In other words, the
+tendency having been given in _kind_, it is required to render the
+phenomena intelligible as its different degrees and modifications. Still
+more perfect will the explanation be, should the necessity of this
+progression and of these ascending gradations be contained in the assumed
+idea of life, as thus defined by the general form and common purport of
+all its various tendencies. This done, we have only to add the conditions
+common to all its phenomena, and, those appropriate to each place and
+rank, in the scale of ascent, and then proceed to determine the primary
+and constitutive forms, _i.e._ the elementary powers in which this
+tendency realizes itself under different degrees and conditions.(7)
+
+What is Life? Were such a question proposed, we should be tempted to
+answer, what is _not_ Life that really _is_? Our reason convinces us that
+the quantities of things, taken abstractedly as quantity, exist only in
+the relations they bear to the percipient; in plainer words, they exist
+only in our minds, _ut quorum esse est percipi_. For if the definite
+quantities have a ground, and therefore a reality, in the external world,
+and independent of the mind that perceives them, this ground is _ipso
+facto_ a quality; the very etymon of this world showing that a quality,
+not taken in its own nature but in relation to another thing, is to be
+defined _causa sufficiens, entia, de quibus loquimur; esse talia, qualia
+sunt_. Either the quantities perceived exist only in the perception, or
+they have likewise a real existence. In the former case, the quality (the
+word is here used in an active sense) that determines them belongs to
+Life, _per ipsam hypothesin_; and in the other case, since by the
+agreement of all parties Life may exist in other forms than those of
+consciousness, or even of sensibility, the _onus probandi_ falls on those
+who assert of any quality that it is _not_ Life. For the analogy of all
+that we know is clearly in favour of the contrary supposition, and if a
+man would analyse the meaning of his own words, and carefully distinguish
+his perceptions and sensations from the external cause exciting them, and
+at the same time from the quantity or superficies under which that cause
+is acting, he would instantly find himself, if we mistake not,
+involuntarily identifying the ideas of Quality and Life. Life, it is
+admitted on all hands, does not necessarily imply consciousness or
+sensibility; and we, for our parts, cannot see that the irritability which
+metals manifest to galvanism, can be more remote from that which may be
+supposed to exist in the tribe of lichens, or in the helvellæ, pezizee,
+&c., than the latter is from the phenomena of excitability in the human
+body, whatever name it may be called by, or in whatever way it may modify
+itself.(8) That the mere act of growth does not constitute the idea of
+Life, or the absence of that act exclude it, we have a proof in every egg
+before it is placed under the hen, and in every grain of corn before it is
+put into the soil. All that could be deduced by fair reasoning would
+amount to this only, that the life of metals, as the power which effects
+and determines their comparative cohesion, ductility, &c., was yet lower
+on the scale than the Life which produces the first attempts of
+organization, in the almost shapeless tremella, or in such fungi as grow
+in the dark recesses of the mine.
+
+                                * * * * *
+
+If it were asked, to what purpose or with what view we should generalize
+the idea of Life thus broadly, I should not hesitate to reply that, were
+there no other use conceivable, there would be _some_ advantage in merely
+destroying an arbitrary assumption in natural philosophy, and in reminding
+the physiologists that they could not hear the life of metals asserted
+with a more contemptuous surprise than they themselves incur from the
+vulgar, when they speak of the Life in mould or mucor. But this is not the
+case. This wider view not only precludes a groundless assumption, it
+likewise fills up the arbitrary chasm between physics and physiology, and
+justifies us in using the former as means of insight into the latter,
+which would be contrary to all sound rules of ratiocination if the powers
+working in the objects of the two sciences were absolutely and essentially
+diverse. For as to abstract the idea of _kind_ from that of _degrees_,
+which are alone designated in the language of common use, is the first and
+indispensable step in philosophy, so are we the better enabled to form a
+notion of the _kind_, the lower the _degree_, and the simpler the form is
+in which it appears to us. We study the complex in the simple; and only
+from the intuition of the lower can we safely proceed to the intellection
+of the higher degrees. The only danger lies in the leaping from low to
+high, with the neglect of the intervening gradations. But the same error
+would introduce discord into the gamut, _et ab abusu contra usum non valet
+consequentia_. That these degrees will themselves bring forth secondary
+kinds sufficiently distinct for all the purposes of science, and even for
+common sense, will be seen in the course of this inquisition: for this is
+one proof of the essential vitality of nature, that she does not ascend as
+links in a suspended chain, but as the steps in a ladder; or rather she at
+one and the same time _ascends_ as by a climax, and expands as the
+concentric circles on the lake from the point to which the stone in its
+fall had given the first impulse. At all events, a contemptuous rejection
+of this mode of reasoning would come with an ill grace from a medical
+philosopher, who cannot combine any three phenomena of health or of
+disease without the assumption of powers, which he is compelled to deduce
+without being able to demonstrate; nay, even of material substances as the
+_vehicles_ of these powers, which he can never expect to exhibit before
+the senses.
+
+From the preceding it should appear, that the most comprehensive formula
+to which life is reducible, would be that of the internal copula of
+bodies, or (if we may venture to borrow a phrase from the Platonic school)
+the _power_ which discloses itself from within as a principle of _unity_
+in the _many_. But that there is a physiognomy in words, which, without
+reference to their fitness or necessity, make unfavorable as well as
+favorable impressions, and that every unusual term in an abstruse research
+incurs the risk of being denominated jargon, I should at the same time
+have borrowed a scholastic _term_, and defined life _absolutely_, as the
+principle of unity in _multeity_, as far as the former, the unity to wit,
+is produced _ab intra_; but _eminently_ (_sensu eminenti_), I define life
+as _the principle of individuation_, or the power which unites a given
+_all_ into a _whole_ that is presupposed by all its parts. The link that
+combines the two, and acts throughout both, will, of course, be defined by
+the _tendency_ to _individuation_. Thus, from its utmost _latency_, in
+which life is one with the elementary powers of mechanism, that is, with
+the powers of mechanism considered as qualitative and actually synthetic,
+to its highest manifestation, (in which, as the _vis vitæ vivida_, or life
+_as_ life, it subordinates and modifies these powers, becoming
+contra-distinguished from mechanism,(9) _ab extra_, under the form of
+organization,) there is an ascending series of intermediate classes, and
+of analogous gradations in each class. To a reflecting mind, indeed, the
+very fact that the powers peculiar to life in living animals _include_
+cohesion, elasticity, &c. (or, in the words of a late publication, “that
+living matter exhibits these physical properties,”(10)) would demonstrate
+that, in the truth of things, they are homogeneous, and that both the
+classes are but degrees and different dignities of one and the same
+tendency. For the latter are not subjected to the former as a lever, or
+walking-stick to the muscles; the more intense the life is, the less does
+_elasticity_, for instance, appear _as_ elasticity. It sinks down into the
+nearest approach to its _physical_ form by a series of degrees from the
+contraction and elongation of the irritable muscle to the physical
+hardness of the insensitive nail. The lower powers are _assimilated_, not
+merely _employed_, and assimilation presupposes the homogeneous nature of
+the thing assimilated; else it is a miracle, only not the same as that of
+a _creation_, because it would imply that additional and equal miracle of
+annihilation. In short, all the impossibilities which the acutest of the
+reformed Divines have detected in the hypothesis of transubstantiation
+would apply, _totidem verbis et syllabis_, to that of assimilation, if the
+objects and the agents were really heterogeneous. Unless, therefore, a
+thing can exhibit properties which do not belong to it, the very admission
+that living matter exhibits physical properties, includes the further
+admission, that those _physical_ or dead properties are themselves vital
+in essence, really _distinct_ but in appearance only _different_; or in
+absolute contrast with each other.
+
+In all cases that which, _abstractly_ taken, is the definition of the
+_kind_, will, when applied _absolutely_, or in its fullest sense, be the
+definition of the highest _degree_ of that kind. If life, in general, be
+defined _vis ab intra, cujus proprium est coadunare plura in rem unicam,
+quantùm est res unica_; the unity will be more intense in proportion as it
+constitutes each particular thing a whole of itself; and yet more, again,
+in proportion to the number and interdependence of the parts, which it
+unites as a whole. But a whole composed, _ab intra_, of different parts,
+so far interdependent that each is reciprocally means and end, is an
+individual, and the individuality is most intense where the greatest
+dependence of the parts on the whole is combined with the greatest
+dependence of the whole on its parts; the first (namely, the dependence of
+the parts on the whole) being absolute; the second (namely, the dependence
+of the whole on its parts) being proportional to the importance of the
+relation which the parts have to the whole, that is, as their action
+extends more or less beyond themselves. For this spirit of the whole is
+most expressed in that part which derives its importance as an End from
+its importance as a Mean, relatively to all the parts under the same
+copula.
+
+Finally, of individuals, the living power will be most intense in that
+individual which, as a whole, has the greatest number of integral parts
+presupposed in it; when, moreover, these integral parts, together with a
+proportional increase of their interdependence, as _parts_, have
+themselves most the character of wholes in the sphere occupied by them. A
+mathematical point, line, or surface, is an _ens rationis_, for it
+expresses an intellectual act; but a physical atom is _ens fictitium_,
+which may be made subservient, as ciphers are in arithmetic, to the
+purposes of hypothetical construction, _per regulam falsi_; but
+transferred to _Nature_, it is in the strictest sense an _absurd_
+quantity; for extension, and consequently divisibility, or _multeity_,(11)
+(for space cannot be divided,) is the indispensable condition, under which
+alone anything can _appear_ to us, or even be _thought_ of, as a _thing_.
+But if it should be replied, that the elementary particles are atoms not
+positively, but by such a hardness communicated to them as is relatively
+invincible, I should remind the assertor that _temeraria citatio
+supernaturalium est pulvinar intellectús pigri_, and that he who requires
+me to believe a miracle of his own dreaming, must first work a miracle to
+convince me that he had dreamt by inspiration. Add, too, the gross
+inconsistency of resorting to an immaterial influence in order to complete
+a system of materialism, by the exclusion of all modes of existence which
+the theorist cannot in imagination, at least, _finger_ and _peep_ at! Each
+of the preceding gradations, as above defined, might be represented as
+they exist, and are realised in Nature. But each would require a work for
+itself, co-extensive with the science of metals, and that of fossils (both
+as geologically applied); of crystallization; and of vegetable and animal
+physiology, in all its distinct branches. The nature of the present essay
+scarcely permits the space sufficient to illustrate our meaning. The proof
+of its probability (for to that only can we arrive by so partial an
+application of the hypothesis), is to be found in its powers of solving
+the particular class of phenomena, that form the subjects of the present
+inquisition, more satisfactorily and profitably than has been done, or
+even attempted before.
+
+Exclusively, therefore, for the purposes of _illustration_, I would take
+as an instance of the first step, the metals, those, namely, that are
+capable of permanent reduction. For, by the established laws of
+nomenclature, the others (as sodium, potassium, calcium, silicium, &c.)
+would be entitled to a class of their own, under the name of _bases_. It
+is long since the chemists have despaired of decomposing this class of
+bodies. They still remain, one and all, as elements or simple bodies,
+though, on the principles of the corpuscularian philosophy, nothing can be
+more improbable than that they really are such; and no reason has or can
+be assigned on the grounds of that system, why, in no one instance, the
+contrary has not been proved. But this is at once explained, if we assume
+them as the simplest form of unity, namely, the unity of powers and
+properties. For these, it is evident, may be endlessly modified, but can
+never be decomposed. If I were asked by a philosopher who had previously
+extended the attribute of Life to the _Byssus speciosa_, and even to the
+crustaceous matter, or outward bones of a lobster, &c., whether the ingot
+of gold expressed _life_, I should answer without hesitation, as the
+_ingot_ of gold assuredly not, for its form is accidental and _ab extra_.
+It may be added to or detracted from without in the least affecting the
+nature, state, or properties in the specific matter of which the ingot
+consists. But as _gold_, as that special union of absolute and of relative
+gravity, ductility, and hardness, which, wherever they are found,
+constitute _gold_, I should answer no less fearlessly, in the affirmative.
+But I should further add, that of the two counteracting tendencies of
+nature, namely, that of _detachment_ from the universal life, which
+universality is represented to us by gravitation, and that of _attachment_
+or reduction into it, this and the other noble metals represented the
+units in which the latter tendency, namely, that of identity with the life
+of nature, subsisted in the greatest overbalance over the former. It is
+the form of unity with the least degree of tendency to individuation.
+
+Rising in the ascent, I should take, as illustrative of the second step,
+the various forms of crystals as a union, not of powers only, but of
+parts, and as the simplest forms of composition in the next narrowest
+sphere of affinity. Here the form, or apparent _quantity_, is manifestly
+the result of the _quality_, and the chemist himself not seldom admits
+them as infallible characters of the substances united in the whole of a
+given crystal.
+
+In the first step, we had Life, as the mere _unity_ of powers; in the
+second we have the simplest forms of _totality_ evolved. The third step is
+presented to us in those vast formations, the tracing of which generically
+would form the science of Geology, or its history in the strict sense of
+the word, even as their description and diagnostics constitute its
+preliminaries.
+
+Their claim to this rank I cannot here even attempt to support. It will be
+sufficient to explain my reason for having assigned it to them, by the
+avowal, that I regard them in a twofold point of view: 1st, as the residue
+and product of vegetable and animal life; 2d, as manifesting the
+tendencies of the Life of Nature to vegetation or animalization. And this
+process I believe—in one instance by the peat morasses of the northern,
+and in the other instance by the coral banks of the southern hemisphere—to
+be still connected with the present order of vegetable and animal Life,
+which constitute the fourth and last step in these wide and comprehensive
+divisions.
+
+In the lowest forms of the vegetable and animal world we perceive totality
+dawning into _individuation_, while in man, as the highest of the class,
+the individuality is not only perfected in its corporeal sense, but begins
+a new series beyond the appropriate limits of physiology. The tendency to
+individuation, more or less obscure, more or less obvious, constitutes the
+common character of all classes, as far as they maintain for themselves a
+distinction from the universal life of the planet; while the degrees, both
+of intensity and extension, to which this tendency is realized, form the
+species, and their ranks in the great scale of ascent and expansion.
+
+In the treatment of a subject so vast and complex, within the limits
+prescribed for an essay like the present, where it is impossible not to
+say either too much or too little (and too much because too little), an
+author is entitled to make large claims on the candour of his judges. Many
+things he must express inaccurately, not from ignorance or oversight, but
+because the more precise expression would have involved the necessity of a
+further explanation, and this another, even to the first elements of the
+science. This is an inconvenience which presses on the analytic method, on
+however large a scale it may be conducted, compared with the synthetic;
+and it must bear with a tenfold weight in the present instance, where we
+are not permitted to avail ourselves of its usual advantages as a
+counterbalance to its inherent defects. I shall have done all that I dared
+propose to myself, or that can be justly demanded of me by others, if I
+have succeeded in conveying a sufficiently clear, though indistinct and
+inadequate notion, so as of its many results to render intelligible that
+one which I am to apply to my particular subject, not as a truth already
+demonstrated, but as an hypothesis, which pretends to no higher merit than
+that of explaining the particular class of phenomena to which it is
+applied, and asks no other reward than a presumption in favour of the
+general system of which it affirms itself to be a dependent though
+integral part. By Life I everywhere mean the true Idea of Life, or that
+most general form under which Life manifests itself to us, which includes
+all its other forms. This I have stated to be the _tendency to
+individuation_, and the degrees or intensities of Life to consist in the
+progressive realization of this tendency. The power which is acknowledged
+to exist, wherever the realization is found, must subsist wherever the
+tendency is manifested. The power which comes forth and stirs abroad in
+the bird, must be latent in the egg. I have shown, moreover, that this
+tendency to individuate cannot be conceived without the opposite tendency
+to connect, even as the centrifugal power supposes the centripetal, or as
+the two opposite poles constitute each other, and are the constituent acts
+of one and the same power in the magnet. We might say that the life of the
+magnet subsists in their union, but that it lives (acts or manifests
+itself) in their strife. Again, if the tendency be at once to individuate
+and to connect, to detach, but so as either to retain or to reproduce
+attachment, the individuation itself must be a tendency to the ultimate
+production of the highest and most comprehensive individuality. This must
+be the one great end of Nature, her ultimate object, or by whatever other
+word we may designate that something which bears to a final cause the same
+relation that Nature herself bears to the Supreme Intelligence.
+
+                                * * * * *
+
+According to the plan I have prescribed for this inquisition, we are now
+to seek for the highest law, or most general form, under which this
+tendency acts, and then to pursue the same process with this, as we have
+already done with the tendency itself, namely, having stated the law in
+its highest abstraction, to present it in the different forms in which it
+appears and reappears in higher and higher dignities. I restate the
+question. The tendency having been ascertained, what is its most general
+law? I answer—_polarity_, or the essential dualism of Nature, arising out
+of its productive unity, and still tending to reaffirm it, either as
+equilibrium, indifference, or identity. In its _productive power_, of
+which the product is the only measure, consists its incompatibility with
+mathematical calculus. For the full applicability of an abstract science
+ceases, the moment reality begins.(12) Life, then, we consider as the
+copula, or the unity of thesis and antithesis, position and
+counterposition,—Life itself being the positive of both; as, on the other
+hand, the two counterpoints are the necessary conditions of the
+_manifestations_ of Life. These, by the same necessity, unite in a
+synthesis; which again, by the law of dualism, essential to all actual
+existence, expands, or _produces_ itself, from the point into the _line_,
+in order again to converge, as the initiation of the same productive
+process in some intenser form of reality. Thus, in the identity of the two
+counter-powers, Life _sub_sists; in their strife it _con_sists: and in
+their reconciliation it at once dies and is born again into a new form,
+either falling back into the life of the whole, or starting anew in the
+process of individuation.
+
+Whence shall we take our beginning? From Space, _istud litigium
+philosophorum_, which leaves the mind equally dissatisfied, whether we
+deny or assert its real existence. To make it wholly ideal, would be at
+the same time to idealize all phenomena, and to undermine the very
+conception of an external world. To make it real, would be to assert the
+existence of something, with the properties of nothing. It would far
+transcend the height to which a physiologist must confine his flights,
+should we attempt to reconcile this apparent contradiction. It is the duty
+and the privilege of the theologian to demonstrate, that _space_ is the
+ideal organ by which the soul of man perceives the _omnipresence_ of the
+Supreme Reality, as distinct from the works, which in him move, and live,
+and have their being; while the equal mystery of _Time_ bears the same
+relation to his _Eternity_, or what is fully equivalent, his Unity.
+
+Physiologically contemplated, Nature begins, proceeds, and ends in a
+contradiction; for the moment of absolute solution would be that in which
+Nature would cease to be Nature, _i.e._ a scheme of ever-varying
+relations; and physiology, in the ambitious attempt to solve phenomena
+into absolute realities, would itself become a mere web of verbal
+abstractions.
+
+But it is in strict connexion with our subject, that we should make the
+universal FORMS as well as the not less universal LAW of Life, clear and
+intelligible in the example of _Time_ and _Space_, these being both the
+first specification of the principle, and ever after its indispensable
+symbols. First, a single act of self-inquiry will show the impossibility
+of distinctly conceiving the one without some involution of the other;
+either time expressed in space, in the form of the mathematical line, or
+space within time, as in the circle. But to form the first conception of a
+_real_ thing, we state both as one in the idea, _duration_. The formula
+is: (A=B+B=A)=(A=A) or the oneness of space and time, is the predicate of
+all _real_ being.
+
+But as little can we conceive the oneness, except as the mid-point
+producing itself on each side; that is, manifesting itself on two opposite
+poles. Thus, from identity we derive duality, and from both together we
+obtain polarity, synthesis, indifference, predominance. The line is Time +
+Space, under the predominance of Time: Surface is Space + Time, under the
+predominance of Space, while Line + Surface as the synthesis of units, is
+the circle in the first dignity; to the sphere in the second; and to the
+globe in the third. In short, neither can the antagonists appear but as
+two forces of one power, nor can the power be conceived by us but as the
+equatorial point of the two counteracting forces; of which the
+_hypomochlion_ of the lever is as good an illustration as anything can be
+that is thought of _mechanically_ only, and exclusively of life. To make
+it adequate, we must substitute the idea of positive production for that
+of rest, or mere neutralization. To the fancy alone it is the null-point,
+or zero, but to the reason it is the _punctum saliens_, and the power
+itself in its eminence. Even in these, the most abstract and universal
+forms of all thought and perception—even in the ideas of time and space,
+we slip under them, as it were, a _substratum_; for we cannot think of
+them but as far as they are co-inherent, and therefore as reciprocally the
+measures of each other. Nor, again, can we finish the process without
+having the idea of _motion_ as its immediate product. Thus we say, that
+time has one dimension, and imagine it to ourselves as a line. But the
+line we have already proved to be the productive synthesis of time, with
+space under the predominance of time. If we exclude space by an abstract
+assumption, the time remains as a spaceless point, and represents the
+concentered power of unity and active negation, _i.e._ retraction,
+determination, and limit, _ab intra_. But if we assume the time as
+excluded, the line vanishes, and we leave space dimensionless, an
+indistinguishable ALL, and therefore the representative of absolute
+weakness and formlessness, but, for that very reason, of infinite capacity
+and formability.
+
+We have been thus full and express on this subject, because these simple
+ideas of time, space, and motion, of length, breadth, and depth, are not
+only the simplest and universal, but the necessary symbols of all
+philosophic construction. They will be found the primary factors and
+elementary forms of every calculus and of every diagram in the algebra and
+geometry of a scientific physiology. Accordingly, we shall recognise the
+same forms under other names; but at each return more specific and
+intense; and the whole process repeated with ascending gradations of
+reality, _exempli gratiâ_: Time + space = motion; T_m_ + space = line +
+breadth = depth; depth + motion = force; L_f_ + B_f_ = D_f_; LD_f_ + BD_f_
+= attraction + repulsion = gravitation; and so on, even till they pass
+into outward phenomena, and form the intermediate link between productive
+powers and fixed products in light, heat, and electricity. If we pass to
+the construction of matter, we find it as the product, or _tertium aliud_,
+of antagonist powers of repulsion and attraction. Remove these powers, and
+the conception of matter vanishes into space—conceive repulsion only, and
+you have the same result. For infinite repulsion, uncounteracted and
+alone, is tantamount to infinite, dimensionless diffusion, and this again
+to infinite weakness; viz., to space. Conceive attraction alone, and as an
+infinite contraction, its product amounts to the absolute point, viz., to
+time. Conceive the synthesis of both, and you have matter as a fluxional
+antecedent, which, in the very act of formation, passes into body by its
+gravity, and yet in all bodies it still remains as their mass, which,
+being exclusively calculable under the law of gravitation, gives rise, as
+we before observed, to the science of statics, most improperly called
+celestial mechanics.
+
+In strict consistence with the same philosophy which, instead of
+considering the powers of bodies to have been miraculously stuck into a
+prepared and pre-existing matter, as pins into a pin-cushion, conceives
+the powers as the productive factors, and the body or phenomenon as the
+fact, product, or fixture; we revert again to potentiated length in the
+power of magnetism; to surface in the power of electricity; and to the
+synthesis of both, or potentiated depth, in constructive, that is,
+chemical affinity. But while the two factors are as poles to each other,
+each factor has likewise its own poles, and thus in the simple cross—
+
+With M M, the magnetic line, running from top to bottom, with _f f_ its
+northern pole, or pole of attraction; and _m m_ its south, or pole of
+repulsion, and E E, running from left to right, one of the lines that
+spring from each point of M M, with its east, or pole of contraction, and
+_d_ its west, or pole of diffluence and expansion—we have presented to us
+the universal quadruplicity, or four elemental forms of power; in the
+endless proportions and modifications of which, the innumerable offspring
+of all-bearing Nature consist. Wisely docile to the suggestions of Nature
+herself, the ancients significantly expressed these forces under the names
+of earth, water, air, and fire; not meaning any tangible or visible
+substance so generalized, but the powers predominant, and, as it were, the
+living basis of each, which no chemical decomposition can ever present to
+the senses, were it only that their interpenetration and co-inherence
+first constitutes them sensible, and is the condition and meaning of
+a—_thing_. Already our more truly philosophical naturalists (Ritter, for
+instance) have begun to generalize the four great elements of chemical
+nomenclature, carbon, azote, oxygen, and hydrogen: the two former as the
+positive and negative pole of the magnetic axis, or as the power of fixity
+and mobility; and the two latter as the opposite poles, or plus and minus
+states of cosmical electricity, as the powers of contraction and
+dilatation, or of comburence and combustibility. These powers are to each
+other as longitude to latitude, and the poles of each relatively as north
+to south, and as east to west. For surely the reader will find no distrust
+in a system only because Nature, ever consistent with herself, presents us
+everywhere with harmonious and accordant symbols of her consistent
+doctrines. Nothing would be more easy than, by the ordinary principles of
+sound logic and common sense, to demonstrate the impossibility and expose
+the absurdity of the corpuscularian or mechanic system, or than to prove
+the intenable nature of any intermediate system. But we cannot force any
+man into an insight or intuitive possession of the true philosophy,
+because we cannot give him abstraction, intellectual intuition, or
+constructive imagination; because we cannot organize for him an eye that
+can see, an ear that can listen to, or a heart that can feel, the
+harmonies of Nature, or recognise in her endless forms, the thousand-fold
+realization of those simple and majestic laws, which yet in their
+absoluteness can be discovered only in the recesses of his own spirit,—not
+by that man, therefore, whose imaginative powers have been _ossified_ by
+the continual reaction and assimilating influences of mere _objects_ on
+his mind, and who is a prisoner to his own eye and its reflex, the passive
+fancy!—not by him in whom an unbroken familiarity with the organic world,
+as if it were mechanical, with the sensitive, but as if it were insensate,
+has engendered the coarse and hard spirit of a sorcerer. The former is
+unable, the latter unwilling, to master the absolute pre-requisites. There
+is neither hope nor occasion for him “to cudgel his brains about it, he
+has no feeling of the business.” If he do not see the necessity from
+without, if he have not learned the possibility from within, of
+interpenetration, of total intussusception, of the existence of all in
+each as the condition of Nature’s unity and substantiality, and of the
+latency under the predominance of some one power, wherein subsists her
+life and its endless variety, as he must be, by habitual slavery to the
+eye, or its reflex, the passive fancy, under the influences of the
+corpuscularian philosophy, he has so paralysed his imaginative powers as
+to be unable—or by that hardness and heart-hardening spirit of contempt,
+which is sure to result from a perpetual commune with the lifeless, he has
+so far debased his inward being—as to be unwilling to comprehend the
+pre-requisite, he must be content, while standing thus at the threshold of
+philosophy, to receive the results, though he cannot be admitted to the
+deliberation—in other words, to act upon _rules_ which he is incapable of
+understanding as LAWS, and to reap the harvest with the sharpened iron for
+which others have delved for him in the mine.
+
+It is not improbable that there may exist, and even be discovered, higher
+forms and more akin to Life than those of magnetism, electricity, and
+constructive (or chemical) affinity appear to be, even in their finest
+known influences. It is not improbable that we may hereafter find
+ourselves justified in revoking certain of the latter, and unappropriating
+them to a yet unnamed triplicity; or that, being thus assisted, we may
+obtain a qualitative instead of a quantitative insight into vegetable
+animation, as distinct from animal, and that of the insect world from
+both. But in the present state of science, the magnetic, electric, and
+chemical powers are the last and highest of inorganic nature. These,
+therefore, we assume as presenting themselves again to us, in their next
+metamorphosis, as reproduction (_i.e._ growth and identity of the whole,
+amid the change or flux of all the parts), irritability and sensibility;
+reproduction corresponding to magnetism, irritability to electricity, and
+sensibility to constructive chemical affinity.
+
+                                * * * * *
+
+But before we proceed further, it behoves us to answer the objections
+contained in the following passage, or withdraw ourselves in time from the
+bitter contempt in which it would involve us. Acting under such a
+necessity, we need not apologise for the length of the quotation.
+
+1. “If,” says Mr. Lawrence, “the properties of living matter are to be
+explained in this way, why should not we adopt the same plan with physical
+properties, and account for gravitation, or chemical affinity, by the
+supposition of appropriate subtile fluids? Why does the irritability of a
+muscle need such an explanation, if explanation it can be called, more
+than the elective attraction of a salt?”
+
+2. “To make the matter more intelligible, this vital principle is compared
+to magnetism, to electricity, and to galvanism; or it is roundly stated to
+be oxygen. ’Tis like a camel, or like a whale, or like what you please.”
+
+3. “You have only to grant that the phenomena of the sciences just alluded
+to depend on extremely fine and invisible fluids, superadded to the
+matters in which they are exhibited, and to allow further that Life, and
+magnetic, galvanic, and electric phenomena correspond perfectly; the
+existence of a subtile matter of Life will then be a very probable
+inference.”
+
+4. “On this illustration you will naturally remark, that the existence of
+the magnetic, electric, and galvanic fluids, which is offered as a proof
+of the existence of a vital fluid, is as much a matter of doubt as that of
+the vital fluid itself.”
+
+5. “It is singular, also, that the vital principle should be like both
+magnetism and electricity, when these two are not like each other.”
+
+6. “It would have been interesting to have had this illustration
+prosecuted a little further. We should have been pleased to learn whether
+the human body is more like a loadstone, a voltaic pile, or an electrical
+machine; whether the organs are to be regarded as Leyden jars, magnetic
+needles, or batteries.”
+
+7. “The truth is, there is no resemblance, no analogy, between Electricity
+and Life; the two orders of phenomena are completely distinct; they are
+incommensurable. Electricity illustrates life no more than life
+illustrates electricity.”(13)
+
+To avoid unnecessary description, I shall refer to the passages by the
+numbers affixed to them, for that purpose, in the margin.
+
+In reply to No. 1, I ask whether, in the nature of the mind, illustration
+and explanation must not of necessity proceed from the lower to the
+higher? or whether a boy is to be taught his addition, subtraction,
+multiplication, and division, by the highest branches of algebraic
+analysis? Is there any better way of systematic teaching, than that of
+illustrating each new step, or having each new step illustrated to him by
+its identity in kind with the step the next below it? though it be the
+only mode in which this objection can be answered, yet it seems affronting
+to remind the objector, of rules so simple as that the complex must even
+be illustrated by the more simple, or the less scrutible by that which is
+more subject to our examination.
+
+In reply to No. 2, I first refer to the author’s eulogy on Mr. Hunter, p.
+163, in which he is justly extolled for having “surveyed the whole
+_system_ of organized beings, from plants to man:” of course, therefore,
+_as_ a _system_; and therefore under some _one common law_. Now in the
+very same sense, and no other, than that in which the writer himself by
+implication compares himself as a man to the _dermestes typographicus_, or
+the _fucus scorpioides_, do I compare the principle of Life to magnetism,
+electricity, and constructive affinity,—or rather to that power to which
+the two former are the thesis and antithesis, the latter the synthesis.
+But if to compare involve the sense of its etymon, and involve the sense
+of parity, I utterly deny that I do at all compare them; and, in truth, in
+no conceivable sense of the word is it applicable, any more than a
+geometrician can be affirmed to compare a polygon to a point, because he
+generates the line out of the point. The writer attributes to a philosophy
+essentially vital the barrenness of the mechanic system, with which alone
+his imagination has been familiarised, and which, as hath been justly
+observed by a contemporary writer, is contradistinguished from the former
+principally in this respect; that demanding for every mode and act of
+existence real or possible visibility, it knows only of distance and
+nearness, composition (or rather compaction) and decomposition, in short,
+the relations of unproductive particles to each other; so that in every
+instance the result is the exact sum of the component qualities, as in
+arithmetical addition. This is the philosophy of Death, and only of a dead
+nature can it hold good. In Life, and in the view of a vital philosophy,
+the two component counter-powers actually interpenetrate each other, and
+generate a higher third, including both the former, “ita tamen ut sit alia
+et major.”
+
+As a complete answer to No. 3, I refer the reader to many passages in the
+preceding and following pages, in which, on far higher and more
+demonstrative grounds than the mechanic system can furnish, I have exposed
+the unmeaningness and absurdity of these finer fluids, as applied even to
+electricity itself; unless, indeed, they are assumed as its product. But
+in addition I beg leave to remind the author, that it is incomparably more
+agreeable to all experience to originate the formative process in the
+_fluid_, whether fine or gross, than in corporeal _atoms_, in which we are
+not only deserted by all experience, but contradicted by the primary
+conception of body itself.
+
+Equally inapplicable is No. 4: and of No. 5 I can only repeat, first, that
+I do not make Life _like_ magnetism, or _like_ electricity; that the
+difference between magnetism and electricity, and the powers illustrated
+by them, is an essential part of my system, but that the animal Life of
+man is the identity of all three. To whatever other system this objection
+may apply, it is utterly irrelevant to that which I have here propounded:
+though from the narrow limits prescribed to me, it has been propounded
+with an inadequacy painful to my own feelings.
+
+The ridicule in No. 6 might be easily retorted; but as it could prove
+nothing, I will leave it where I found it, in a page where nothing is
+proved.
+
+A similar remark might be sufficient for the bold and blank assertion (No.
+7) with which the extract concludes; but that I feel some curiosity to
+discover what meaning the author attaches to the term analogy. Analogy
+implies a difference in sort, and not merely in degree; and it is the
+sameness of the end, with the difference of the means, which constitutes
+analogy. No one would say the lungs of a man were analogous to the lungs
+of a monkey, but any one might say that the gills of fish and the
+spiracula of insects are analogous to lungs. Now if there be any
+philosophers who have asserted that electricity as electricity is the
+_same_ as Life, for that reason they cannot be _analogous_ to each other;
+and as no man in his senses, philosopher or not, is capable of imagining
+that the lightning which destroys a sheep, was a means to the same end
+with the principle of its organization; for this reason, too, the two
+powers cannot be represented as analogous. Indeed I know of no system in
+which the word, as thus applied, would admit of an endurable meaning, but
+that which teaches us, that a mass of marrow in the skull is analogous to
+the rational soul, which Plato and Bacon, equally with the “poor Indian,”
+believe themselves to have received from the Supreme Reason.
+
+It would be blindness not to see, or affectation to pretend not to see,
+the work at which these sarcasms were levelled. The author of that work is
+abundantly able to defend his own opinions; yet I should be ambitious to
+address _him_ at the close of the contest in the lines of the great Roman
+poet:
+
+“Et nos tela, Pater, ferrumque haud debile dextrâ
+Spargimus, et nostro sequitur, de vulnere sanguis.”
+
+In Mr. Abernethy’s Lecture on the Theory of Life, it is impossible not to
+see a presentiment of a great truth. He has, if I may so express myself,
+caught it in the breeze: and we seem to hear the first glad opening and
+shout with which he springs forward to the pursuit. But it is equally
+evident that the prey has not been followed through its doublings and
+windings, or driven out from its brakes and covers into full and open
+view. Many of the least tenable phrases may be fairly interpreted as
+illustrations, rather than precise exponents of the author’s meaning; at
+least, while they remain as a mere suggestion or annunciation of his
+ideas, and till he has expanded them over a larger sphere, it would be
+unjust to infer the contrary. But it is not with men, however strongly
+their professional merits may entitle them to reverence, that my concern
+is at present. If the opinions here supported are the same with those of
+Mr. Abernethy, I rejoice in his authority. If they are different, I shall
+wait with an anxious interest for an exposition of that difference.
+
+Having reasserted that I no more confound magnetism with electricity, or
+the chemical process, than the mathematician confounds length with
+breadth, or either with depth; I think it sufficient to add that there are
+two views of the subject, the former of which I do not believe
+attributable to any philosopher, while both are alike disclaimed by me as
+forming any part of my views. The first is that which is supposed to
+consider electricity identical with life, as it subsists in organized
+bodies. The other considers electricity as everywhere present, and
+penetrating all bodies under the image of a subtile fluid or substance,
+which, in Mr. Abernethy’s inquiry, I regard as little more than a mere
+diagram on his slate, for the purpose of fixing the attention on the
+intellectual conception, or as a possible _product_, (in which case
+electricity must be a composite power,) or at worst, as words _quæ humana
+incuria fudit_. This which, in inanimate Nature, is manifested now as
+magnetism, now as electricity, and now as chemical agency, is supposed, on
+entering an organized body, to constitute its vital _principle_, something
+in the same manner as the steam becomes the _mechanic_ power of the
+steam-engine, in _consequence_ of its compression by the steam-engine; or
+as the breeze that murmurs indistinguishably in the forest becomes the
+element, the substratum, of melody in the Æolian harp, and of consummate
+harmony in the organ. Now this hypothesis is as directly opposed to my
+view as supervention is to evolution, inasmuch as I hold the organized
+body itself, in all its marvellous contexture, to be the PRODUCT and
+representant of the power which is here supposed to have supervened to it.
+So far from admitting a _transfer_, I do not admit it even in electricity
+itself, or in the phenomena universally called electrical; among other
+points I ground my explanation of remote sympathy on the directly contrary
+supposition.
+
+But my opinions will be best explained by a rapid exemplification in the
+processes of Nature, from the first rudiments of individualized life in
+the lowest classes of its two great poles, the vegetable and animal
+creation, to its crown and consummation in the human body; thus
+illustrating at once the unceasing _polarity of life, as the form of its
+process, and its tendency to progressive individuation as the law of its
+direction_.
+
+Among the conceptions, of the mere ideal character of which the
+philosopher is well aware, and which yet become necessary from the
+necessity of assuming a beginning; the original fluidity of the planet is
+the chief. Under some form or other it is expressed or implied in every
+system of cosmogony and even of geology, from Moses to Thales, and from
+Thales to Werner. This assumption originates in the same law of mind that
+gave rise to the _prima materia_ of the Peripatetic school. In order to
+_comprehend_ and _explain_ the _forms_ of things, we must imagine a state
+_antecedent_ to form. A chaos of heterogeneous substances, such as our
+Milton has described, is not only an _impossible_ state (for this may be
+equally true of every other attempt), but it is _palpably_ impossible. It
+presupposes, moreover, the thing it is intended to solve; and makes _that_
+an _effect_ which had been called in as the explanatory _cause_. The
+requisite and only serviceable fiction, therefore, is the representation
+of CHAOS as one vast homogeneous drop! In this sense it may be even
+justified, as an appropriate symbol of the great fundamental truth that
+all things spring from, and subsist in, the endless strife between
+indifference and difference. The whole history of Nature is comprised in
+the specification of the transitional states from the one to the other.
+The symbol only is fictitious: the thing signified is not only grounded in
+truth—it is the law and actuating principle of all other truths, whether
+physical or intellectual.
+
+Now, by magnetism in its widest sense, I mean the first and simplest
+_differential_ act of Nature, as the power which works in _length_, and
+produces the first distinction between the indistinguishable by the
+generation of a _line_. Relatively, therefore, to fluidity, that is, to
+matter, the parts of which cannot be distinguished from each other by
+figure, magnetism is the power of fixity; but, relatively to itself,
+magnetism, like every other power in Nature, is designated by its opposite
+poles, and must be represented as the magnetic axis, the northern pole of
+which signifies rest, attraction, fixity, coherence, or hardness; the
+element of EARTH in the nomenclature of _observation_ and the CARBONIC
+principle in that of _experiment_; while the southern pole, as its
+antithesis, represents mobility, repulsion, incoherence, and fusibility;
+the element of air in the nomenclature of observation (that is, of Nature
+as it appears to us when unquestioned by art), and azote or nitrogen in
+the nomenclature of experiment (that is, of Nature in the state so
+beautifully allegorized in the Homeric fable of Proteus bound down, and
+forced to answer by Ulysses, after having been pursued through all his
+metamorphoses into his ultimate form.(14)) That nothing real does or can
+exist corresponding to either pole _exclusively_, is involved in the very
+definition of a THING as the synthesis of opposing energies. That a thing
+_is_, is owing to the co-inherence therein of any two powers; but that it
+is _that_ particular thing arises from the proportions in which these
+powers are co-present, either as predominance or as reciprocal
+neutralization; but under the modification of twofold power to which
+magnetism itself is, as the thesis to its antithesis.
+
+The correspondent, in the world of the senses, to the magnetic axis,
+exists in the series of metals. The metalleity, as the universal base of
+the planet, is a necessary deduction from the principles of the system.
+From the infusible, though evaporable, diamond to nitrogen itself, the
+metallic nature of which has been long suspected by chemists, though still
+under the mistaken notion of an oxyde, we trace a series of metals from
+the maximum of coherence to positive fluidity, in all ordinary
+temperatures, we mean. Though, in point of fact, cold itself is but a
+superinduction of the one pole, or, what amounts to the same thing, the
+subtraction of the other, under the modifications afore described; and
+therefore are the metals indecomposible, because they are themselves the
+decompositions of the metallic axis, in all its degrees of longitude and
+latitude. Thus the substance of the planet from which it _is_, is
+metallic; while that which is ever _becoming_, is in like manner produced
+through the perpetual modification of the first by the opposite forces of
+the second; that is, by the principle of contraction and difference at the
+eastern extreme—the element of fire, or the oxygen of the chemists; and by
+the elementary power of dilatation, or universality at its western
+extreme—the ὑδωρ ἐν ὑδατι of the ancients, and the hydrogen of the
+laboratory.
+
+It has been before noticed that the progress of Nature is more truly
+represented by the ladder, than by the suspended chain, and that she
+expands as by concentric circles. This is, indeed, involved in the very
+conception of individuation, whether it be applied to the different
+species or to the individuals. In what manner the evident interspace is
+reconciled with the equally evident continuity of the life of Nature, is a
+problem that can be solved by those minds alone, which have intuitively
+learnt that the whole _actual_ life of Nature originates in the existence,
+and consists in the perpetual reconciliation, and as perpetual resurgency
+of the primary contradiction, of which universal polarity is the result
+and the exponent. From the first moment of the differential impulse—(the
+primæval chemical epoch of the Wernerian school)—when Nature, by the
+tranquil deposition of crystals, prepared, as it were, the fulcrum of her
+after-efforts, from this, her first, and in part _irrevocable_,
+self-contraction, we find, in each ensuing production, more and more
+tendency to independent existence in the increasing multitude of strata,
+and in the relics of the lowest orders, first of vegetable and then of
+animal life. In the schistous formations, which we must here assume as in
+great measure the residua of vegetable creations, that have sunk back into
+the universal life, and in the later predominant calcareous masses, which
+are the _caput mortuum_ of animalized existence, we ascend from the laws
+of attraction and repulsion, as united in gravity, to magnetism,
+electricity, and constructive power, till we arrive at the point
+representative of a new and far higher intensity. For from this point
+flow, as in opposite directions, the two streams of vegetation and
+animalization, the former characterised by the predominance of magnetism
+in its highest power, as reproduction, the other by electricity
+intensified—as irritability, in like manner. The vegetable and animal
+world are the thesis and antithesis, or the opposite poles of organic
+life. We are not, therefore, to seek in either for analogies to the other,
+but for counterpoints. On the same account, the nearer the common source,
+the greater the likeness; the farther the remove, the greater the
+opposition. At the extreme limits of inorganic Nature, we may detect a dim
+and obscure prophecy of her ensuing process in the twigs and rude
+semblances that occur in crystallization of some of the copper ores, and
+in the well-known _arbor Dianæ_, and _arbor Veneris_. These latter Ritter
+has already ably explained by considering the oblique branches and their
+acute angles as the result of magnetic repulsion, from the presentation of
+the same poles, &c. In the CORALS and CONCHYLIA, the whole act and purpose
+of their existence seems to be that of connecting the animal with the
+inorganic world by the perpetual formation of calcareous earth. For the
+corals are nothing but polypi, which are characterised by still passing
+away and dissolving into the earth, which they had previously excreted, as
+if they were the first feeble effort of detachment. The power seems to
+step forward from out the inorganic world only to fall back again upon it,
+still, however, under a new form, and under the predominance of the more
+active pole of magnetism. The product must have the same connexion,
+therefore, with azote, which the first rudiments of vegetation have with
+carbon: the one and the other exist not for their own sakes, but in order
+to produce the conditions best fitted for the production of higher forms.
+In the polypi, corallines, &c., individuality is in its first dawn; there
+is the same shape in them all, and a multitude of animals form, as it
+were, a common animal. And as the individuals run into each other, so do
+the different genera. They likewise pass into each other so
+indistinguishably, that the whole order forms a very network.
+
+As the corals approach the conchylia, this interramification decreases.
+The tubipora forms the transition to the serpula; for the characteristic
+of all zoophytes, namely, the star shape of their openings, here
+disappears, and the tubiporæ are distinguished from the rest of the corals
+by this very circumstance, that the hollow calcareous pipes are placed
+side by side, without interbranching. In the serpula they have already
+become separate. How feeble this attempt is to individuate, is most
+clearly shown in their mode of generation. Notwithstanding the report of
+Professor Pallas, it still remains doubtful whether there exists any
+actual copulation among the polypi. The mere existence of a polypus
+suffices for its endless multiplication. They may be indefinitely
+propagated by cuttings, so languid is the power of individuation, so
+boundless that of reproduction. But the delicate jelly dissolves, as
+lightly as it was formed, into its own product, and it is probable that
+the Polynesia, as a future continent, will be the gigantic monument, not
+so much of their life, as of the life of Nature in them. Here we may
+observe the first instance of that general law, according to which Nature
+still assimilates her extreme points. In these, her first and feeblest
+attempts to animalize organization, it is latent, because undeveloped, and
+merely potential; while, in the human brain, the last and most consummate
+of her combined energies, it is again lost or disguised in the
+subtlety(15) and multiplicity of its evolution.
+
+In the class immediately above (Mollusca) we find the individuals
+separate, a more determinate form, and in the higher species, the rudiment
+of nerves, as the first scarce distinguishable impress and exponent of
+sensibility; still, however, the vegetative reproduction is the
+predominant form; and even the nerves “which float in the same cavity with
+the other viscera,” are probably subservient to it, and extend their power
+in the increased intensity of the reproductive force. Still prevails the
+transitional state from the fluid to the solid; and the jelly, that
+rudiment in which all animals, even the noblest, have their commencement;
+constitutes the whole sphere of these rudimental animals.
+
+In the snail and muscle, the residuum of the coral reappears, but refined
+and ennobled into a part of the animal. The whole class is characterised
+by the separation of the fluid from the solid. On the one side, a
+gelatinous semi-fluid; on the other side, an entirely inorganic, though
+often a most exquisitely mechanised, calcareous excretion.
+
+Animalization in general is, we know, contra-distinguished from vegetables
+in general by the predominance of azote in the chemical composition, and
+of irritability in the organic process. But in this and the foregoing
+classes, as being still near the common equator, or the punctum
+indifferentiæ, the carbonic principle still asserts its claims, and the
+force of reproduction struggles with that of irritability. In the
+unreconciled strife of these two forces consists the character of the
+_Vermes_, which appear to be the preparatory step for the next class.
+Hence the difficulties which have embarrassed the naturalists, who adopt
+the Linnæan classification, in their endeavours to discover determinate
+characters of distinction between the vermes and the insecta.
+
+But no sooner have we passed the borders, than endless variety of form and
+the bold display of instincts announce, that Nature has succeeded. She has
+created the intermediate link between the vegetable world, as the product
+of the reproductive or magnetic power, and the animal as the exponent of
+sensibility. Those that live and are nourished, on the bodies of other
+animals, are comparatively few, with little diversity of shape, and almost
+all of the same natural family. These we may pass by as exceptions. But
+the insect world, taken at large, appears as an intenser life, that has
+struggled itself loose and become emancipated from vegetation, _Floræ
+liberti, et libertini!_ If for the sake of a moment’s relaxation we might
+indulge a Darwinian flight, though at the risk of provoking a smile, (not,
+I hope, a frown) from sober judgment, we might imagine the life of insects
+an apotheosis of the petals, stamina, and nectaries, round which they
+flutter, or of the stems and pedicles, to which they adhere. Beyond and
+above this step, Nature seems to act with a sort of free agency, and to
+have formed the classes from choice and bounty. Had she proceeded no
+further, yet the whole vegetable, together with the whole insect creation,
+would have formed within themselves an entire and independent system of
+Life. All plants have insects, most commonly each genus of vegetables its
+appropriate genera of insects; and so reciprocally interdependent and
+necessary to each other are they, that we can almost as little think of
+vegetation without insects, as of insects without vegetation. Though
+probably the mere likeness of _shape_, in the _papilio_, and the
+papilionaceous plants, suggested the idea of the former, as the latter in
+a state of detachment, to our late poetical and theoretical brother; yet a
+something, that approaches to a graver plausibility, is given to this
+fancy of a flying blossom; when we reflect how many plants depend upon
+insects for their fructification. Be it remembered, too, that with few and
+very obscure exceptions, the irritable power and an analogon of voluntary
+motion first dawn on us in the vegetable world, in the stamina, and
+anthers, at the period of impregnation. Then, as if Nature had been
+encouraged by the success of the first experiment, both the one and the
+other appear as predominance and general character. THE INSECT WORLD IS
+THE EXPONENT OF IRRITABILITY, AS THE VEGETABLE IS OF REPRODUCTION.
+
+With the ascent in power, the intensity of individuation keeps even pace;
+and from this we may explain all the characteristic distinctions between
+this class and that of the vermes. The almost homogeneous jelly of the
+animalcula infusoria became, by a vital oxydation, granular in the polypi.
+This granulation formed itself into distinct organs in the molluscæ; while
+for the snails, which are the next step, the animalized lime, that seemed
+the sole final cause of the life of the polypi, assumes all the characters
+of an ulterior purpose. Refined into a horn-like substance, it becomes to
+the snails the substitute of an organ, and their outward skeleton. Yet how
+much more manifold and definite, the organization of an insect, than that
+of the preceding class, the patient researches of Swammerdam and Lyonnet
+have evinced, to the delight and admiration of every reflecting mind.
+
+In the insect, for the first time, we find the distinct commencement of a
+separation between the exponents of sensibility and those of irritability;
+_i.e._ between the _nervous_ and the _muscular_ system. The latter,
+however, asserts its pre-eminence throughout. The prodigal provision of
+organs for the purposes of respiration, and the marvellous powers which
+numerous tribes of insects possess, of accommodating the most corrupted
+airs, for a longer or shorter period, to the support of their
+excitability, would of itself lead us to presume, that here the _vis
+irritabilis_ is the reigning dynasty. There is here no confluence of
+nerves into one reservoir, as evidence of the independent existence of
+sensibility _as_ sensibility;—and therefore no counterpoise of a vascular
+system, as a distinct exponent of the irritable pole. The whole
+muscularity of these animals, is the organ of irritability; and the nerves
+themselves are probably feeders of the motory power. The petty rills of
+sensibility flow into the full expanse of irritability, and there lose
+themselves. The nerves appertaining to the senses, on the other hand, are
+indistinct, and comparatively unimportant. The multitude of immovable eyes
+appear not so much conductors of light, as its ultimate recipient. We are
+almost tempted to believe that they constitute, rather than subserve,
+their sensorium.
+
+These eye-facets form the sense of light, rather than organs of seeing.
+Their almost paradoxical number at least, and the singularity of their
+forms, render it probable that they impel the animal by some modification
+of its irritability, herein likewise containing a striking analogy to the
+known influence of light on plants, than as excitements of sensibility.
+The sense that is nearest akin to irritability, and which alone resides in
+the muscular system, is that of touch, or feeling. This, therefore, is the
+first sense that emerges. Being confined to absolute contact, it occupies
+the lowest rank; but for that very reason it is the ground of all the
+other senses, which act, according to the ratio of their ascent, at still
+increasing distances, and become more and more ideal, from the tentacles
+of the polypus, to the human eye; which latter might be defined the
+outward organ of the identity, or at least of the indifference, of the
+real and ideal. But as the calcareous residuum of the lowest class
+approaches to the nature of horn in the snail, so the cumbrous shell of
+the snail has been transformed into polished and moveable plates of
+defensive armour in the insect. Thus, too, the same power of progressive
+individuation articulates the tentacula of the polypus and holothuria into
+antennæ; thereby manifesting the full emersion and eminency of
+irritability as a power which acts in, and gives its own character to,
+that of reproduction. The least observant must have noticed the
+lightning-like rapidity with which the insect tribes devour and eliminate
+their food, as by an instinctive necessity, and in the least degree for
+the purposes of the animal’s own growth or enlargement. The same
+predominance of irritability, and at the same time a new start in
+individuation, is shown in the reproductive power as generation. There is
+now a regular projection, _ab intra ad extra_, for which neither sprouts
+nor cuttings can any longer be the substitutes. We have not space for
+further detail; but there is one point too strikingly illustrative and
+even confirmative of the proposed system, to be omitted altogether. We
+mean the curious fact, that the same characteristic tendency, _ad extra_,
+which in the males and females of certain insect tribes is realized in the
+functions of generation, conception, and parturiency, manifests and
+expands itself in the _sexless_ individuals (which are always in this case
+the great majority of the species), as instincts of art, and in the
+construction of works completely detached and inorganic; while the
+geometric regularity of these works, which bears an analogy to
+crystallization, is demonstrably no more than the necessary result of
+uniform action in a compressed multitude.
+
+Again, as the insect world, averaging the whole, comes nearest to plants,
+(whose very essence is reproduction,) in the multitude of their germs; so
+does it resemble plants in the sufficiency of a single impregnation for
+the evolution of myriads of detached lives. Even so, the metamorphoses of
+insects, from the egg to the maggot and caterpillar, and from these,
+through the nympha and aurelia into the perfect insect, are but a more
+individuated and intenser form of a similar transformation of the plant
+from the seed-leaflets, or cotyledons, through the stalk, the leaves, and
+the calyx, into the perfect flower, the various colours of which seem made
+for the reflection of light, as the antecedent grade to the burnished
+scales, and scale-like eyes of the insect. Nevertheless, with all this
+seeming prodigality of organic power, the whole tendency is _ad extra_,
+and the life of insects, as electricity in the quadrate, acts chiefly on
+the superficies of their bodies, to which we may add the negative proof
+arising from the absence of sensibility. It is well known, that the two
+halves of a divided insect have continued to perform, or attempt, each
+their separate functions, the trunkless head feeding with its accustomed
+voracity, while the headless trunk has exhibited its appropriate
+excitability to the sexual influence.
+
+The intropulsive force, that sends the ossification inward as to the
+centre, is reserved for a yet higher step, and this we find embodied in
+the class of _fishes_. Even here, however, the process still seems
+imperfect, and (as it were) initiatory. The skeleton has left the surface,
+indeed, but the bones approach to the nature of gristle. To feel the truth
+of this, we need only compare the most perfect bone of a fish with the
+thigh-bones of the mammalia, and the distinctness with which the latter
+manifest the co-presence of the _magnetic_ power in its solid parietes, of
+the _electrical_ in its branching arteries, and of the third greatest
+power, viz., the _qualitative_ and interior, in its marrow. The senses of
+fish are more distinct than those of insects. Thus, the intensity of its
+sense of smell has been placed beyond doubt, and rises in the extent of
+its sphere far beyond the irritable sense, or the feeling, in insects. I
+say the _feeling_, not the touch; for the touch seems, as it were, a
+supervention to the feeling, a perfection _given_ to it by the reaction of
+the higher powers. As the feeling of the insect, in subtlety and virtual
+distance, rises above the solitary sense of taste(16) in the mollusca, so
+does the smell of the fish rise above the feeling of the insect. In the
+fish, likewise, the eyes are single and moveable, while it is remarkable
+that the only insect that possesses this latter privilege, is an
+inhabitant of the waters. Finally, here first, unequivocally, and on a
+_large_ scale, (for I pretend not to control the freedom, in which the
+necessity of Nature is rooted, by the precise limits of a system,)—here
+first, Nature exhibits, in the power of sensibility, the consummation of
+those vital forms (the _nisus formativi_) the adequate and the sole
+measure of which is to be sought for in their several organic products.
+But as if a weakness of exhaustion had attended this advance in the same
+moment it was made, Nature seems necessitated to fall back, and re-exert
+herself on the lower ground which she had before occupied, that of the
+vital magnetism, or the power of reproduction. The intensity of this
+latter power in the fishes, is shown both in their voracity and in the
+number of their eggs, which we are obliged to calculate by _weight_, not
+by _tale_. There is an equal intensity both of the _immanent_ and the
+_projective_ reproduction, in which, if we take in the comparative number
+of individuals in each species, and likewise the different intervals
+between the acts, the fish (it is probable) would be found to stand in a
+similar relation to the insect, as the insect, in the latter point, stands
+to the system of vegetation. Meantime, the fish sinks a step below the
+insect, in the mode and circumstances of impregnation. To this we will
+venture to add, the predominance of _length_, as the _form_ of growth in
+so large a proportion of the known orders of fishes, and not less of their
+rectilineal path of motion. In all other respects, the correspondence
+combined with the progress in individuation, is striking in the whole
+detail. Thus the eye, in addition to its moveability, has besides acquired
+a saline moisture in its higher development, as accordant with the life of
+its element. Add to these the glittering covering in both, the splendour
+of the scales in the one answering to the brilliant plates in the
+other,—the luminous reservoirs of the fire-flies,—the phosphorescence and
+electricity of many fishes,—the same analogs of moral qualities, in their
+rapacity, boldness, modes of seizing their prey by surprise,—their gills,
+as presenting the intermediate state between the spiracula of the grade
+next below, and the lungs of the step next above, both extremes of which
+seem combined in the structure of birds and of their quill-feathers; but
+above all, the convexity of the crystalline lens, so much greater than in
+birds, quadrupeds, and man, and seeming to collect, in one powerful organ,
+the hundred-fold microscopic facettes of the insect’s _light_ organs; and
+it will not be easy to resist the conviction, that the same power is at
+work in both, and reappears under higher auspices. The intention of Nature
+is repeated; but, as was to have been expected, with two main differences.
+
+First, that in the lower grade the reproductions themselves seem merged in
+those of irritability, from the very circumstance that the latter
+constitutes no pole, either to the former, or to sensibility. The force of
+irritability acts, therefore, in the insect world, in full predominance;
+while the emergence of sensibility in the fish calls forth the opposite
+pole of reproduction, as a _distinct_ power, and causes therefore the
+irritability to flow, in part, into the power of reproduction. The second
+result of this ascent is the direction of the organizing power, _ad
+intra_, with the consequent greater simplicity of the exterior form, and
+the substitution of condensed and flexible force, with comparative unity
+of implements, for that variety of tools, almost as numerous as the
+several objects to which they are to be applied, which arises from, and
+characterises, the superficial life of the insect creation. This grade of
+ascension, however, like the former, is accompanied by an apparent
+retrograde movement. For from this very accession of vital intensity we
+must account for the absence in the fishes of all the formative, or rather
+(if our language will permit it) _fabricative_ instincts. How could it be
+otherwise? These instincts are the surplus and projection of the
+organizing power in the direction _ad extra_, and could not, therefore,
+have been expected in the class of animals that represent the first
+intuitive effort of organization, and are themselves the product of its
+first movement in the direction _ad intra_. But Nature never loses what
+she has once learnt, though in the acquirement of each new power she
+intermits, or performs less energetically, the act immediately preceding.
+She often drops a faculty, but never fails to pick it up again. She may
+seem forgetful and absent, but it is only to recollect herself with
+_additional_, as well as _recruited_ vigour, in some after and higher
+state; as if the sleep of powers, as well as of bodies, were the season
+and condition of their growth. Accordingly, we find these instincts again,
+and with them a wonderful synthesis of fish and insect, as a higher third,
+in the feathered inhabitants of the air. Nay, she seems to have gone yet
+further back, and having given B + C = D in the birds, so to have sported
+with one solitary instance of B + D = A in that curious animal the dragon,
+the anatomy of which has been recently given to the public by Tiedemann;
+from whose work it appears, that this creature presents itself to us with
+the wings of the insect, and with the nervous system, the brain, and the
+cranium of the bird, in their several rudiments.
+
+The synthesis of fish and insect in the birds, might be illustrated
+equally in detail with the former; but it will be sufficient for our
+purpose, that as in both the former cases, the insect and the fish, so
+here in that of the birds, the powers are under the predominance of
+irritability; the sensibility being dormant in the first, awakening in the
+second, and awake, but still subordinate, in the third. Of this my limits
+confine me to a single presumptive proof, viz., the superiority in
+strength and courage of the female in the birds of prey. For herein,
+indeed, does the difference of the sexes universally consist, wherever
+both the forces are developed, that the female is characterised by quicker
+irritability, and the male by deeper sensibility. How large a stride has
+been now made by Nature in the progress of individuation, what
+ornithologist does not know? From a multitude of instances we select the
+most impressive, the power of sound, with the first rudiments of
+modulation! That all languages designate the melody of birds as singing
+(though according to Blumenbach man only sings, while birds do but
+whistle), demonstrates that it has been felt as, what indeed it is, a
+tentative and prophetic prelude of something yet to come. With this
+conjoin the power and the tendency to acquire articulation, and to imitate
+speech; conjoin the building instinct and the migratory, the monogamy of
+several species, and the pairing of almost all; and we shall have
+collected new instances of the usage (I dare not say law) according to
+which Nature lets fall, in order to resume, and steps backward the
+furthest, when she means to leap forwards with the greatest concentration
+of energy.
+
+For lo! in the next step of ascent the power of sensibility has assumed
+her due place and rank: her minority is at an end, and the complete and
+universal presence of a nervous system unites absolutely, by instanteity
+of time what, with the due allowances for the transitional process, had
+before been either lost in sameness, or perplexed by multiplicity, or
+compacted by a finer mechanism. But with this, all the analogies with
+which Nature had delighted us in the preceding step seem lost, and, with
+the single exception of that more than valuable, that estimable
+philanthropist, the dog, and, perhaps, of the horse and elephant, the
+analogies to ourselves, which we can discover in the quadrupeds or
+quadrumani, are of our vices, our follies, and our imperfections. The
+facts in confirmation of both the propositions are so numerous and so
+obvious, the advance of Nature, under the predominance of the third
+synthetic power, both in the intensity of life and in the intenseness and
+extension of individuality, is so undeniable, that we may leap forward at
+once to the highest realization and reconciliation of both her tendencies,
+that of the most perfect detachment with the greatest possible union, to
+that last work, in which Nature did not assist as handmaid under the eye
+of her sovereign Master, who made Man in his own image, by superadding
+self-consciousness with self-government, and breathed into him a living
+soul.
+
+The class of _Vermes_ deposit a calcareous stuff, as if it had torn loose
+from the earth a piece of the gross mass which it must still drag about
+with it. In the insect class this residuum has refined itself. In the
+fishes and amphibia it is driven back or inward, the organic power begins
+to be intuitive, and sensibility appears. In the birds the bones have
+become hollow; while, with apparent proportional recess, but, in truth, by
+the excitement of the opposite pole, their exterior presents an actual
+vegetation. The bones of the mammalia are filled up, and their coverings
+have become more simple. Man possesses the most perfect osseous structure,
+the least and most insignificant covering. The whole force of organic
+power has attained an inward and centripetal direction. He has the whole
+world in counterpoint to him, but he contains an entire world within
+himself. Now, for the first time at the apex of the living pyramid, it is
+Man and Nature, but Man himself is a syllepsis, a compendium of Nature—the
+Microcosm! Naked and helpless cometh man into the world. Such has been the
+complaint from eldest time; but we complain of our chief privilege, our
+ornament, and the connate mark of our sovereignty. _Porphyrigeniti sumus_!
+In Man the centripetal and individualizing tendency of all Nature is
+itself concentred and individualized—he is a revelation of Nature!
+Henceforward, he is referred to himself, delivered up to his own charge;
+and he who stands the most on himself, and stands the firmest, is the
+truest, because the most individual, Man. In social and political life
+this acme is inter-dependence; in moral life it is independence; in
+intellectual life it is genius. Nor does the form of polarity, which has
+accompanied the law of individuation up its whole ascent, desert it here.
+As the height, so the depth. The intensities must be at once opposite and
+equal. As the liberty, so must be the reverence for law. As the
+independence, so must be the service and the submission to the Supreme
+Will! As the ideal genius and the originality, in the same proportion must
+be the resignation to the real world, the sympathy and the inter-communion
+with Nature. In the conciliating mid-point, or equator, does the Man live,
+and only by its equal presence in both its poles can that life be
+manifested!
+
+                                * * * * *
+
+If it had been possible, within the prescribed limits of this essay, to
+have deduced the philosophy of Life synthetically, the evidence would have
+been carried over from section to section, and the _quod erat
+demonstrandum_ at the conclusion of one section would reappear as the
+principle of the succeeding—the goal of the one would be the starting-post
+of the other. Positions arranged in my own mind, as intermediate and
+organic links of administration, must be presented to the reader in the
+first instance, at least, as a mere hypothesis.  Instead of demanding his
+assent as a right, I must solicit a suspension of his judgment as a
+courtesy; and, after all, however firmly the hypothesis may support the
+phenomena piled upon it, we can deduce no more than a practical rule,
+grounded on a strong presumption. The license of arithmetic, however,
+furnishes instances that a rule may be usefully applied in practice, and
+for the particular purpose may be sufficiently authenticated by the
+result, before it has itself been duly demonstrated. It is enough, if only
+it hath been rendered fully intelligible.
+
+In a system where every position proceeds from a scientific
+preconstruction, a power acting exclusively in length, would be magnetism
+by virtue of our own definition of the term. In like manner, a surface
+power would be electricity, as far as that system was concerned, whether
+it accorded or not with the facts ordinarily so called. But it is
+incumbent on us, who must treat the subject _analytically_, to show by
+experiment that magnetism does in fact act longitudinally, and electricity
+superficially; and that, consequently, the former is distinguished from,
+and yet contained in, the latter, as a straight line is distinguished
+from, yet contained in, a superficies.
+
+First, that magnetism, in its conductors, seeks and follows length only,
+and by the length is itself conducted, has been proved by Brugmans, in his
+philosophical Essay on the Matter of Magnetism, where he relates that a
+magnet capable of supporting a body four times heavier than itself, and
+which acted as a magnetic needle at the distance of twenty inches, was so
+weakened by the interposition of three cast-iron plates of considerable
+thickness, as scarcely to move the magnetic needle from its place at a
+distance of only three inches. A similar experiment had been made by
+Descartes. I concluded, therefore, said Brugmans, that if the iron plates
+were interposed between the magnet and the needle lengthways, instead of
+breadthways or right across, the action of the magnet on the magnetic
+needle would, in consequence of this great increase of resistance, become
+still weaker, or perhaps evanescent. But not less to my surprise than my
+admiration, I found that the power of the magnet was so far from being
+_diminished_ by this change in the relative position of the iron-plates;
+that, on the contrary, it now extended to a far greater distance than when
+no iron at all was interposed. Some time after the same philosopher, out
+of several iron bars, the sides of which were an inch broad each, composed
+a single bar of the length of more than ten feet, and observed the
+magnetism make its way through the whole mass. But, in order to try
+whether the action could be propagated to any length indefinitely, after
+several experiments with bars of intermediate lengths, in all of which he
+had succeeded, he tried a four-cornered iron rod, more than twenty feet
+long, and it was at this length that the magnetic power first began to be
+diminished. So far Brugmans.
+
+But the shortest way for any one to convince himself of this relation of
+the magnetic power would be, in one and the same experiment, to interpose
+the same piece of iron between the magnet and the compass needle first
+_breadthways_; and in this case it will be found that the needle, which
+had been previously deflected by the magnet from its natural position at
+one of its poles, will instantly resume the same, either wholly or very
+nearly so—then to interpose the same piece of iron _lengthways_; in which
+case the position of the compass needle will be scarcely or not at all
+affected.
+
+The assertion of Bernoulli and others, that the absolute force of the
+artificial magnet increases in the ratio of its superficies, stands
+corrected in the far more accurate experiments of Coulomb (published in
+his Treatise on Magnetism), which proves that the increase takes place (in
+a far greater degree) in the ratio of its length. The same naturalist even
+found means to determine that the directing powers of the needle, which he
+had measured by help of his _balance de tortion_, stand to the length of
+the needle in such a ratio as that, provided only the length of the needle
+is from forty to fifty times its diameter, the momenta of these directing
+powers will increase in the very same direct proportion as the length is
+increased. Nor is this all that may be deduced from the experiment last
+mentioned. If only the magnet be strong enough, it will show likewise that
+magnetism _seeks_ the length. The proof is contained in the remarkable
+fact, that the iron interposed between the magnet and the magnetic needle
+_breadthways_ constantly acquires its two opposite poles at both ends
+_lengthways_. Though the preceding experiments are abundantly sufficient
+to prove the position, yet the following deserves mention for the
+beautiful clearness of its evidence. If the magnetic power is determined
+exclusively by length, it is to be expected that it will manifest no
+force, where the piece of iron is of such a shape that no one dimension
+predominates. Bring a _cube_ of iron near the magnetic needle and it will
+not exert the slightest degree of power beyond what belongs to it as mere
+iron. By the perfect equality of the dimensions, the magnetism of the
+earth appears, as it were, perplexed and doubtful. Now, then attach a
+second cube of iron to the first, and the instantaneous act of the iron on
+the magnetic needle will make it manifest that with the length thus given,
+the magnetic influence is given at the same moment.
+
+That electricity, on the other hand, does not act in length merely, is
+clear, from the fact that every electric body is electric over its whole
+surface. But that electricity acts both in length and breadth, and _only_
+in length and breadth, and not in depth; in short, that the (so-called)
+electrical fluid in an electrified body spreads over the whole surface of
+that body without penetrating it, or tending _ad intra_, may be proved by
+direct experiment. Take a cylinder of wood, and bore an indefinite number
+of holes in it, each of them four lines in depth and four in diameter.
+Electrify this cylinder, and present to its superficies a small square of
+gold-leaf, held to it by an insulating needle of gum lac, and bring this
+square to an electrometer of great sensibility. The electrometer will
+instantly show an electricity in the gold-leaf, similar to that of the
+cylinder which had been brought into contact with it. The square of
+gold-leaf having thus been discharged of its electricity, put it carefully
+into one of the holes of the cylinder, _so_, namely, that it shall touch
+only the bottom of the hole, and present it again to the electrometer. It
+will be then found that the electrometer will exhibit no signs of
+electricity whatsoever. From this it follows, that the electricity which
+had been communicated to the cylinder had confined itself to the
+_surface_.
+
+If the time and the limit prescribed would admit, we could multiply
+experiments, all tending to prove the same law; but we must be content
+with the barely sufficient. But that the _chemical process_ acts in
+_depth_, and first, therefore, _realizes_ and integrates the fluxional
+power of magnetism and electricity, is involved in the _term_ composition;
+and this will become still more convincing when we have learnt to regard
+_decomposition_ as a mere co-relative, _i.e._ as decomposition relatively
+to the body decomposed, but composition _actually_ and in respect of the
+substances, _into_ which it was decomposed. The alteration in the specific
+gravity of metals in their chemical amalgams, interesting as the fact is
+in all points, is _decisive_ in the present; for gravity is the sole
+_inward_ of inorganic bodies—it _constitutes_ their depth.
+
+I can now, for the first time, give to my opinions that degree of
+intelligibility, which is requisite for their introduction as hypotheses;
+the experiments above related, understood as in the common mode of
+thinking, prove that the magnetic influence flows in length, the electric
+fluid by suffusion, and that chemical agency (whatever the main agent may
+be) is qualitative and _in intimis_. Now my hypothesis demands the
+converse of all this. I affirm that a power, acting exclusively in length,
+is (wherever it be found) _magnetism_; that a power which acts _both_ in
+length and in breadth, and _only_ in length and breadth, is (wherever it
+be found) _electricity_; and finally, that a power which, together with
+length and breadth, includes depth likewise, is (wherever it be found)
+_constructive agency_. That is but _one_ phenomenon of magnetism, to which
+we have appropriated and confined the term magnetism; because of all the
+natural bodies at present known, iron, and one or two of its nearest
+relatives in the family of hard yet coherent metals, are the only ones, in
+which all the conditions are collected, under which alone the magnetic
+agency can appear in and during the act itself. When, therefore, I affirm
+the power of reproduction in organized bodies to be magnetism, I must be
+understood to mean that this power, as it exists in the magnet, and which
+we there (to use a strong phrase) catch in the very act, is to the same
+kind of power, working as reproductive, what the root is to the cube of
+that root. We no more confound the force in the compass needle with that
+of reproduction, than a man can be said to confound his liver with a
+lichen, because he affirms that both of them grow.
+
+The same precautions are to be repeated in the identification of
+electricity with irritability; and the power of depth, for which we have
+yet no appropriated term, with sensibility. How great the distance is in
+all, and that the lowest degrees are adopted as the exponent terms, not
+for their own sakes, but merely because they may be used with less hazard
+of diverting the attention from the _kind_ by peculiar properties arising
+out of the degree, is evident from the third instance, unless the theorist
+can be supposed insane enough to apply sensation in good earnest to the
+effervescence of an acid or an alkali, or to sympathise with the
+distresses of a vat of new beer when it is working. In whatever way the
+subject could be treated, it must have remained unintelligible to men who,
+if they think of space at all, abstract their notion of it from the
+contents of an exhausted receiver. With this, and with an ether, such men
+may work wonders; as what, indeed, cannot be done with a plenum and a
+vacuum, when a theorist has privileged himself to assume the one, or the
+other, _ad libitum_?—in all innocence of heart, and undisturbed by the
+reflection that the two things cannot both be true. That both time and
+space are mere abstractions I am well aware; but I know with equal
+certainty that what is _expressed_ by them as the _identity_ of both is
+the highest reality, and the root of all power, the power to suffer, as
+well as the power to act. However mere an _ens logicum_ space may be, the
+_dimensions_ of space are real, and the works of Galileo, in more than one
+elegant passage, prove with what awe and amazement they fill the mind that
+worthily contemplates them. Dismissing, therefore, all facts of degrees,
+as introduced merely for the purposes of illustration, I would make as
+little reference as possible to the magnet, the charged phial, or the
+processes of the laboratory, and designate the three powers in the process
+of our animal life, each by two co-relative terms, the one expressing the
+_form_, and the other the _object_ and _product_ of the power. My
+hypothesis will, therefore, be thus expressed, that the constituent forces
+of life in the human living body are—first, the power of length, or
+REPRODUCTION; second, the power of surface (that is, length and breadth),
+or IRRITABILITY; third, the power of depth, or SENSIBILITY. With this
+observation I may conclude these remarks, only reminding the reader that
+Life itself is neither of these separately, but the copula of all
+three—that Life, _as_ Life, supposes a positive or universal principle in
+Nature, with a negative principle in every particular animal, the latter,
+or limitative power, constantly acting to individualize, and, as it were,
+_figure_ the former. _Thus_, then, Life itself is not a _thing_—a
+self-subsistent _hypostasis_—but an _act_ and _process_; which, pitiable
+as the prejudice will appear to the _forts esprits_, is a great deal more
+than either my reason would authorise or my conscience allow me to
+assert—concerning the Soul, as the principle both of Reason and
+Conscience.
+
+
+
+
+
+ADVERTISEMENTS.
+
+
+_October, 1848._ Works on Medicine and Science
+Published by John Churchill.
+
+                                * * * * *
+
+Dr. Golding Bird, F.R.S. The Diagnosis, Pathological Indications And
+Treatment of Urinary Deposits. With Engravings on Wood. Second Edition.
+Post 8vo. cloth, 8_s._ 6_d._ By The Same Author. Elements of Natural
+Philosophy; being an Experimental Introduction to the Study of the
+Physical Sciences. Illustrated with several Hundred Wood-cuts. Third
+Edition. Fcap. 8vo. cloth, 12_s._ 6_d._
+
+                                * * * * *
+
+Mr. Beasley. The Pocket Formulary and Synopsis of The British And Foreign
+Pharmacopœias; comprising Standard and Improved Formulæ for the
+Preparations and Compounds employed in Medical Practice. Fourth Edition,
+corrected and enlarged. 18mo. cloth, 6_s._
+
+                                * * * * *
+
+Dr. Henry Bennett. A Practical Treatise on Inflammation, Ulceration, And
+Induration of the Neck of The Uterus; with Remarks on Leucorrhœa and
+Prolapsus Uteri, as Symptoms of this form of Disease. 8vo. cloth, 6_s._
+
+                                * * * * *
+
+Dr. Budd, F.R.S. On Diseases of the Liver; illustrated with Coloured
+Plates and Engravings on Wood. 8vo. cloth, 14_s._
+
+                                * * * * *
+
+Sir James Clark, Bart., M.D. On The Sanative Influence of Climate. With an
+Account of the best Places of Resort for Invalids in England, the South of
+Europe, &c. Fourth Edition, revised. Post 8vo. 10_s._ 6_d._
+
+                                * * * * *
+
+Dr. Carpenter, F.R.S.
+A Manual of Physiology; specially designed for the Use of Students. With
+numerous Illustrations on Steel and Wood. Fcap. 8vo. cloth, 12_s._ 6_d._
+Dr. Carpenter, F.R.S. Principles of General and Comparative Physiology;
+intended as an Introduction to the Study of Human Physiology, and as a
+Guide to the Philosophical Pursuit of Natural History. Illustrated with
+numerous Figures on Copper and Wood. The Second Edition. 8vo. cloth,
+18_s._ By The Same Author. Principles of Human Physiology. numerous
+Illustrations on Steel and Wood. Third Edition. One thick 8vo. vol. 21_s._
+
+                                * * * * *
+
+Sir Astley Cooper, Bart., F.R.S. A Treatise on Dislocations and Fractures
+of the Joints. Edited by Bransby b. Cooper, F.R.S. 8vo. cloth, 20_s._ Sir
+Astley Cooper left very considerable additions in MS. for the express
+purpose of being introduced into this Edition. By The Same Author.
+Observations on the Structure and Diseases of the Testis. Illustrated with
+Twenty-four highly-finished coloured Plates. Second Edition. Royal 4to.
+cloth. _Reduced from_ 3_l._ 3_s. to_ 1_l._ 10_s._
+
+                                * * * * *
+
+Dr. Conolly. The Construction and Government of Lunatic Asylums and
+Hospitals for the Insane. With Plans, post 8vo. cloth, 6_s._
+
+                                * * * * *
+
+Mr. Cooley. Comprehensive Supplement to the Pharmacopœia The Cyclopædia of
+Practical Receipts, and Collateral Information in the Arts, Manufactures,
+and Trades, Including Medicine, Pharmacy, and Domestic Economy; designed
+as a Compendious Book of Reference for the Manufacturer, Tradesman,
+Amateur, and Heads of Families. Second Edition, in one thick volume of 800
+pages. 8vo. cloth, 14_s._
+
+                                * * * * *
+
+Mr. Fergusson, F.R.S.E. A System of Practical Surgery; with numerous
+Illustrations on Wood. Second Edition. Fcap. 8vo. cloth, 12_s._ 6_d._ Mr.
+Churchill’s Publications. Mr. Fownes, PH. D., F.R.S. A Manual of
+Chemistry; with numerous Illustrations on Wood. Second Edition. Fcap. 8vo.
+cloth, 12_s._ 6_d._ “An admirable exposition of the present state of
+chemical science, simply and clearly written.”—_British and Foreign
+Medical Review._ By The Same Author. Introduction to Qualitative Analysis.
+Post 8vo. cloth, 2_s._
+
+
+
+
+
+
+FOOTNOTES
+
+
+    1 Mr. Abernethy.
+
+    2 Experiment, as an organ of reason, not less distinguished from the
+      blind or dreaming industry of the alchemists, than it was
+      successfully opposed to the barren subtleties of the schoolmen.
+
+    3 Whose own mind, however, was not comprehended in the vortex; where
+      Kepler erred it was in the other extreme.
+
+    4 But still less would I avail myself of its acknowledged
+      inappropriateness to the purposes of physiology, in order to cast a
+      self-complacent sneer on the soul itself, and on all who believe in
+      its existence. First, because in my opinion it would be impertinent;
+      secondly, because it would be imprudent and injurious to the
+      character of my profession; and, lastly, because it would argue an
+      irreverence to the feelings of mankind, which I deem scarcely
+      compatible with a good heart, and a degree of arrogance and
+      presumption which I have never found, except in company with a
+      corrupt taste and a shallow capacity.
+
+    5 Vide Lawrence’s Lecture.
+
+    6 Joh. Bapt. a Vico, Neapol. Reg. eloq. Professor, de antiquissima
+      Itallorum sapientia ex lingua Latina originibus aruendâ: libri tres.
+      Neap., 1710.
+
+    7 The object I have proposed to myself, and wherein its distinction
+      exists, may be thus illustrated. A complex machine is presented to
+      the common view, the moving power of which is hidden. Of those who
+      are studying and examining it, one man fixes his attention on some
+      one application of that power, on certain effects produced by that
+      particular application, and on a certain part of the structure
+      evidently appropriated to the production of these effects, neither
+      the one or other of which he had discovered in a neighbouring
+      machine, which he at the same time asserts to be quite distinct from
+      the former, and to be moved by a power altogether different, though
+      many of the works and operations are, he admits, common to both
+      machines. In this supposed peculiarity he places the essential
+      character of the former machine, and defines it by the presence of
+      that which is, or which he supposes to be, absent in the latter.
+      Supposing that a stranger to both were about to visit the two
+      machines, this peculiarity would be so far useful as that it might
+      enable him to distinguish the one from the other, and thus to look
+      in the proper place for whatever else he had heard remarkable
+      concerning either; not that he or his informant would understand the
+      machine any better or otherwise, than the common character of a
+      whole class in the nomenclature of botany would enable a person to
+      understand all, or any one of the plants contained in that class.
+      But if, on the other hand, the machine in question were such as no
+      man was a stranger to, if even the supposed peculiarity, either by
+      its effects, or by the construction of that portion of the works
+      which produced them, were equally well known to all men, in this
+      case we can conceive no use at all of such a definition; for at the
+      best it could only be admitted as a definition for the purposes of
+      nomenclature, which never adds to knowledge, although it may often
+      facilitate its communication. But in this instance it would be
+      nomenclature misplaced, and without an object. Such appears to me to
+      be the case with all those definitions which place the essence of
+      Life in nutrition, contractility, &c. As the second instance, I will
+      take the inventor and maker of the machine himself, who knows its
+      moving power, or perhaps himself constitutes it, who is, as it were,
+      the soul of the work, and in whose mind all its parts, with all
+      their bearings and relations, had pre-existed long before the
+      machine itself had been put together. In him therefore there would
+      reside, what it would be presumption to attempt to acquire, or to
+      pretend to communicate, the most perfect insight not only of the
+      machine itself, and of all its various operations, but of its
+      ultimate principle and its essential causes. The mysterious ground,
+      the efficient causes of vitality, and whether different lives differ
+      absolutely or only in degree, He alone can know who not only said,
+      “Let the earth bring forth the living creature, the beast of the
+      earth after his kind, and it was so;” but who said, “Let us make man
+      in our image, who himself breathed into his nostrils the breath of
+      Life, and man became a living soul.”
+
+      The third case which I would apply to my own attempt would be that
+      of the inquirer, who, presuming to know nothing of the power that
+      moves the whole machine, takes those parts of it which are presented
+      to his view, seeks to reduce its various movements to as few and
+      simple laws of motion as possible, and out of their separate and
+      conjoint action proceeds to explain and appropriate the structure
+      and relative positions of the works. In obedience to the
+      canon,—“Principia non esse multiplicanda præter summam necessitatem
+      cui suffragamur non ideo quia causalem in mundo unitatem vel ratione
+      vel experientiâ perspiciamus, sed illam ipsam indagamus impulsu
+      intellectûs, qui tantundem sibi in explicatione phænomenorum
+      profecisse videtur quantum ab codem principio ad plurima rationata
+      descendere ipsi concessum est.”
+
+    8 The arborescent forms on a frosty morning, to be seen on the window
+      and pavement, must have _some_ relation to the more perfect forms
+      developed in the vegetable world.
+
+    9 Thus we may say that whatever is organized from without, is a
+      product of mechanism; whatever is mechanised from within, is a
+      production of organization.
+
+   10 “The matter that surrounds us is divided into two great classes,
+      living and dead; the latter is governed by physical laws, such as
+      attraction, gravitation, chemical affinity; and it exhibits physical
+      properties, such as cohesion, elasticity, divisibility, &c. Living
+      matter also exhibits these properties, and is subject, in great
+      measure, to physical laws. But living bodies are endowed moreover
+      with a set of properties altogether different from these, and
+      contrasting with them very remarkably.” (Vide Lawrence’s Lectures,
+      p. 121.)
+
+   11 Much against my will I repeat this scholastic term, _multeity_, but
+      I have sought in vain for an unequivocal word of a less repulsive
+      character, that would convey the notion in a positive and not
+      comparative sense in kind, as opposed to the _unum et simplex_, not
+      in degree, as contracted with the _few_. We can conceive no reason
+      that can be adduced in justification of the word _caloric_, as
+      invented to distinguish the external cause of the sensation heat,
+      which would not equally authorise the introduction of a technical
+      term in this instance.
+
+   12 For abstractions are the conditions and only subject of all abstract
+      sciences. Thus the theorist (vide Dalton’s Theory), who reduces the
+      chemical process to the positions of atoms, would doubtless thereby
+      render chemistry calculable, but that he commences by destroying the
+      chemical process itself, and substitutes for it a _mote dance_ of
+      abstractions; for even the powers which he appears to leave real,
+      those of attraction and repulsion, he immediately unrealizes by
+      representing them as diverse and separable properties. We can
+      abstract the quantities and the quantitative motion from masses,
+      passing over or leaving for other sciences the question of what
+      constitutes the masses, and thus apply not to the masses themselves,
+      but to the abstractions therefrom,—the laws of geometry and
+      universal arithmetic. And where the quantities are the infallible
+      signs of real powers, and our chief concern with the masses is as
+      SIGNS, sciences may be founded thereon of the highest use and
+      dignity. Such, for instance, is the sublime science of astronomy,
+      having for its objects the vast masses which “God placed in the
+      firmament of the heaven to be for _signs_ and for seasons, for days
+      and years.” For the whole doctrine of physics may be reduced to
+      three great divisions: First, _quantitative motion_, which is
+      proportioned to the quantity of matter exclusively. This is the
+      science of weight or statics. Secondly, _relative motion_, as
+      communicated to bodies externally by impact. This is the science of
+      mechanics. Thirdly, _qualitative motion_, or that which is accordant
+      to properties of matter. And this is chemistry. Now it is evident
+      that the first two sciences presuppose that which forms the
+      exclusive object of the third, namely, quality; for all quantity in
+      nature is either itself derived, or at least derives its powers from
+      some _quality_, as that of weight, specific cohesion, hardness, &c.;
+      and therefore the attempt to reduce to the distances or impacts of
+      atoms, under the assumptions of two powers, which are themselves
+      declared to be no more than mere general terms for those quantities
+      of motion and impact (the atom itself being a fiction formed by
+      abstraction, and in truth a third occult quality for the purpose of
+      explaining hardness and density), amounts to an attempt to destroy
+      chemistry itself, and at the same time to exclude the sole reality
+      and only positive contents of the very science into which that of
+      chemistry is to be degraded. Now what qualities are to chemistry,
+      _productiveness_ is to the science of Life; and this being excluded,
+      physiology or zoonomy would sink into chemistry, chemistry by the
+      same process into mechanics, while mechanics themselves would lose
+      the substantial principle, which, bending the lower extreme towards
+      its apex, produces the organic circle of the sciences, and elevates
+      them all into different arcs or stations of the one absolute science
+      of Life.
+
+      This explanation, which in appearance only is a digression, was
+      indispensably requisite to prevent the idea of polarity, which has
+      been given as the universal law of Life, from being misunderstood as
+      a mere refinement on those mechanical systems of physiology, which
+      it has been my main object to explode.
+
+   13 I apprehend that by men of a certain school it would be deemed no
+      demerit, even though they should never have condescended to look
+      into any system of Aristotelian logic. It is enough for these
+      gentlemen that they are experimentalists! Let it not, however, be
+      supposed that they make more experiments than their neighbours, who
+      consider induction as a means and not an end; or have stronger
+      motives for making them, unless it can be believed that Tycho Brähe
+      must have been urged to repeat his sweeps of the heavens with
+      greater accuracy and industry than Herschel, for no better reason
+      than that the former flourished before the theory of gravitation was
+      perfected. No, but they have the honour of being mere
+      experimentalists! If, however, we may not refer to logic, we may to
+      common sense and common experience. It is not improbable, however,
+      that they have both read and studied a book of hypothetical
+      psychology on the assumptions of the crudest materialism, stolen too
+      without acknowledgment from our David Hartley’s essay on Man, which
+      is well known under the whimsical name of Condillac’s Logic. But, as
+      Mr. Brand has lately observed, “the French are a queer people,” and
+      we should not be at all surprised to hear of a book of fresh
+      importation from Paris, on determinate proportions in chemistry,
+      announced by the author in his title-page as a new and improved
+      system either of arithmetic or geometry.
+
+   14 Such is the interpretation given by Lord Bacon. To which of the two
+      gigantic intellects, the poet’s or philosophic commentator’s, the
+      allegory belongs, I shall not presume to decide. Its extraordinary
+      beauty and appropriateness remains the same in either case.
+
+   15 The Anatomical Demonstrations of the Brain, by Dr. Spurzheim, which
+      I have seen, presented to me the most satisfactory proof of this.
+
+   16 The remark on the feeling of the antennæ, compared with the touch of
+      man, or even of the half-reasoning elephant, is yet more applicable
+      to the taste, which in these gelatinous animals might, perhaps not
+      inappropriately, be entitled the gastric sense.
+
+
+
+
+

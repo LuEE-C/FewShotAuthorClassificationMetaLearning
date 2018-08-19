@@ -13,6 +13,7 @@ from util import GutenbergConstructor
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 embedding_dim = 100
 
+
 class CNN_Classification(nn.Module):
     def __init__(self, embedding_weights, hidden_size, embedding_dim, n_words, output_size, input_size):
         super(CNN_Classification, self).__init__()
@@ -114,11 +115,13 @@ def reptile_author_recognition(examples_size=512, examples=10, different_authors
             writer.add_scalar('Val loss at ' + str(i), val_loss.item(), ep)
             writer.add_scalar('Val accuracy at ' + str(i), val_accuracy, ep)
 
-
         old_state_dict = model.state_dict()
         for p in old_state_dict:
             old_state_dict[p] = old_state_dict[p] * (1 - outer_lr) + meta_model.state_dict()[p] * outer_lr
         model.load_state_dict(old_state_dict)
+
+        if ep % 10000 == 0:
+            torch.save(model.state_dict(), 'model_' + str(ep))
 
 
 if __name__ == '__main__':
