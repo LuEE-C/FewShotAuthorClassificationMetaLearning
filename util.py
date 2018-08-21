@@ -16,7 +16,7 @@ class GutenbergConstructor:
         print(self.author_set)
         self.preprocess_guttenberg()
         self.words_to_indexes, self.indexes_to_words, self.n_words = self.map_words_to_indexes()
-        # self.glove_embedding = self.get_glove_embedding()
+        self.glove_embedding = self.get_glove_embedding()
         self.split_validation_and_train_author()
 
 
