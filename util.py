@@ -27,7 +27,7 @@ class GutenbergConstructor:
     def get_n_task(self, tasks=5, examples=10, examples_size=256):
         sampled_author = random.sample(self.author_set, tasks)
         targets = torch.tensor(np.repeat([i for i in range(tasks)], examples), dtype=torch.long, device=device)
-        val_targets = torch.tensor(np.repeat([i for i in range(tasks)], examples * 5), dtype=torch.long, device=device)
+        val_targets = torch.tensor(np.repeat([i for i in range(tasks)], examples * 20), dtype=torch.long, device=device)
 
         texts = []
         for author in sampled_author:
@@ -40,7 +40,7 @@ class GutenbergConstructor:
         val_texts = []
         for author in sampled_author:
             length_of_work = len(self.author_to_work_dict[author])
-            examples_idx_start = np.random.random_integers(0, length_of_work - examples_size - 1, examples * 5)
+            examples_idx_start = np.random.random_integers(0, length_of_work - examples_size - 1, examples * 20)
             for idx in examples_idx_start:
                 val_texts.append(self.author_to_work_dict[author][idx: idx + examples_size])
         val_texts = torch.tensor(np.array(val_texts), dtype=torch.long, device=device)
@@ -50,7 +50,7 @@ class GutenbergConstructor:
     def get_validation_task(self, tasks=5, examples=10, examples_size=256):
         sampled_author = random.sample(self.validation_authors, tasks)
         targets = torch.tensor(np.repeat([i for i in range(tasks)], examples), dtype=torch.long, device=device)
-        val_targets = torch.tensor(np.repeat([i for i in range(tasks)], examples * 5), dtype=torch.long, device=device)
+        val_targets = torch.tensor(np.repeat([i for i in range(tasks)], examples * 20), dtype=torch.long, device=device)
 
         texts = []
         for author in sampled_author:
@@ -63,7 +63,7 @@ class GutenbergConstructor:
         val_texts = []
         for author in sampled_author:
             length_of_work = len(self.author_to_work_dict[author])
-            examples_idx_start = np.random.random_integers(0, length_of_work - examples_size - 1, examples * 5)
+            examples_idx_start = np.random.random_integers(0, length_of_work - examples_size - 1, examples * 20)
             for idx in examples_idx_start:
                 val_texts.append(self.author_to_work_dict[author][idx: idx + examples_size])
         val_texts = torch.tensor(np.array(val_texts), dtype=torch.long, device=device)
