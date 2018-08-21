@@ -20,7 +20,7 @@ class GutenbergConstructor:
 
 
     def split_validation_and_train_author(self):
-        self.validation_authors = random.sample(self.author_set, 10)
+        self.validation_authors = set(random.sample(self.author_set, 10))
         self.author_set = self.author_set - self.validation_authors
 
 
