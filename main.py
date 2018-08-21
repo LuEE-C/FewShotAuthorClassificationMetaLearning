@@ -103,8 +103,8 @@ def reptile_author_recognition(examples_size=512, examples=10, different_authors
 
             accuracy = accuracy_score(np.argmax(pred.detach().cpu().numpy(), axis=-1), y.cpu().numpy())
 
-            writer.add_scalar('Loss at ' + str(i), loss.item(), ep)
-            writer.add_scalar('Accuracy at ' + str(i), accuracy, ep)
+            writer.add_scalar('Train loss at ' + str(i), loss.item(), ep)
+            writer.add_scalar('Train accuracy at ' + str(i), accuracy, ep)
 
             meta_model.eval()
             test_out = meta_model(val_x)
@@ -112,13 +112,43 @@ def reptile_author_recognition(examples_size=512, examples=10, different_authors
 
             val_accuracy = accuracy_score(np.argmax(test_out.detach().cpu().numpy(), axis=-1), val_y.cpu().numpy())
 
-            writer.add_scalar('Val loss at ' + str(i), val_loss.item(), ep)
-            writer.add_scalar('Val accuracy at ' + str(i), val_accuracy, ep)
+            writer.add_scalar('Train test loss at ' + str(i), val_loss.item(), ep)
+            writer.add_scalar('Train test accuracy at ' + str(i), val_accuracy, ep)
 
         old_state_dict = model.state_dict()
         for p in old_state_dict:
             old_state_dict[p] = old_state_dict[p] * (1 - outer_lr) + meta_model.state_dict()[p] * outer_lr
         model.load_state_dict(old_state_dict)
+
+        if ep % 100 == 0:
+            x, y, val_x, val_y = meta_env.get_validation_task(different_authors, examples, examples_size)
+
+            meta_model.load_state_dict(model.state_dict())
+            optimizer = optim.SGD(params=meta_model.parameters(), lr=inner_lr)
+            for i in range(10):
+                meta_model.train()
+                pred = meta_model(x)
+                loss = criterion(pred, y)
+
+                optimizer.zero_grad()
+                loss.backward()
+                optimizer.step()
+
+                accuracy = accuracy_score(np.argmax(pred.detach().cpu().numpy(), axis=-1), y.cpu().numpy())
+
+                writer.add_scalar('Val loss at ' + str(i), loss.item(), ep)
+                writer.add_scalar('Val accuracy at ' + str(i), accuracy, ep)
+
+                meta_model.eval()
+                test_out = meta_model(val_x)
+                val_loss = criterion(test_out, val_y)
+
+                val_accuracy = accuracy_score(np.argmax(test_out.detach().cpu().numpy(), axis=-1), val_y.cpu().numpy())
+
+                writer.add_scalar('Val test loss at ' + str(i), val_loss.item(), ep)
+                writer.add_scalar('Val test accuracy at ' + str(i), val_accuracy, ep)
+
+
 
         if ep % 50000 == 0:
             torch.save(model.state_dict(), 'model_' + str(ep))
