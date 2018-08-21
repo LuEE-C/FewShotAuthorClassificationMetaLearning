@@ -75,7 +75,7 @@ class GutenbergConstructor:
     def read_all_gutenberg(self):
         author_to_book_dict = dict()
         gutenberg_dir = 'Gutenberg/txt/'
-        for books in tqdm(os.listdir(gutenberg_dir)[:1000]):
+        for books in tqdm(os.listdir(gutenberg_dir)):
             author = books.split('___')[0]
             if author not in author_to_book_dict:
                 author_to_book_dict[author] = []
