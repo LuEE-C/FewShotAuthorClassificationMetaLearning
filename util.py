@@ -6,6 +6,7 @@ import torchtext.vocab as vocab
 import os
 import torch
 import random
+import pickle
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -13,17 +14,16 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 class GutenbergConstructor:
     def __init__(self):
         self.author_to_work_dict, self.author_set = self.read_all_gutenberg()
-        print(self.author_set)
         self.preprocess_guttenberg()
         self.words_to_indexes, self.indexes_to_words, self.n_words = self.map_words_to_indexes()
         self.glove_embedding = self.get_glove_embedding()
         self.split_validation_and_train_author()
 
-
     def split_validation_and_train_author(self):
         self.validation_authors = set(random.sample(self.author_set, 10))
         self.author_set = self.author_set - self.validation_authors
-
+        pickle.dump(self.validation_authors, open('validation_authors', 'wb'))
+        pickle.dump(self.author_set, open('train_authors', 'wb'))
 
     def get_n_task(self, tasks=5, examples=10, examples_size=256):
         sampled_author = random.sample(self.author_set, tasks)
