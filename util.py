@@ -13,9 +13,10 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 class GutenbergConstructor:
     def __init__(self):
         self.author_to_work_dict, self.author_set = self.read_all_gutenberg()
+        print(self.author_set)
         self.preprocess_guttenberg()
         self.words_to_indexes, self.indexes_to_words, self.n_words = self.map_words_to_indexes()
-        self.glove_embedding = self.get_glove_embedding()
+        # self.glove_embedding = self.get_glove_embedding()
         self.split_validation_and_train_author()
 
 
@@ -74,7 +75,7 @@ class GutenbergConstructor:
     def read_all_gutenberg(self):
         author_to_book_dict = dict()
         gutenberg_dir = 'Gutenberg/txt/'
-        for books in tqdm(os.listdir(gutenberg_dir)):
+        for books in tqdm(os.listdir(gutenberg_dir)[:1000]):
             author = books.split('___')[0]
             if author not in author_to_book_dict:
                 author_to_book_dict[author] = []
@@ -88,7 +89,7 @@ class GutenbergConstructor:
         for author in author_to_book_dict:
             list_of_author.append(author)
             author_to_book_dict[author] = ' '.join(author_to_book_dict[author])
-        return author_to_book_dict, list_of_author
+        return author_to_book_dict, set(list_of_author)
 
     def preprocess_guttenberg(self):
         # Translating punctuation to spaces
