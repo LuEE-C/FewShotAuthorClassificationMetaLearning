@@ -20,12 +20,12 @@ class GutenbergConstructor:
         self.split_validation_and_train_author()
 
     def split_validation_and_train_author(self):
-        self.validation_authors = set(random.sample(self.author_set, 10))
+        self.validation_authors = set(random.sample(self.author_set, 20))
         self.author_set = self.author_set - self.validation_authors
         pickle.dump(self.validation_authors, open('validation_authors', 'wb'))
         pickle.dump(self.author_set, open('train_authors', 'wb'))
 
-    def get_n_task(self, tasks=5, examples=10, examples_size=256):
+    def get_n_task(self, tasks=20, examples=10, examples_size=64):
         sampled_author = random.sample(self.author_set, tasks)
         targets = torch.tensor(np.repeat([i for i in range(tasks)], examples), dtype=torch.long, device=device)
         val_targets = torch.tensor(np.repeat([i for i in range(tasks)], examples * 20), dtype=torch.long, device=device)
@@ -48,7 +48,7 @@ class GutenbergConstructor:
 
         return texts, targets, val_texts, val_targets
 
-    def get_validation_task(self, tasks=5, examples=10, examples_size=256):
+    def get_validation_task(self, tasks=20, examples=10, examples_size=256):
         sampled_author = random.sample(self.validation_authors, tasks)
         targets = torch.tensor(np.repeat([i for i in range(tasks)], examples), dtype=torch.long, device=device)
         val_targets = torch.tensor(np.repeat([i for i in range(tasks)], examples * 20), dtype=torch.long, device=device)
