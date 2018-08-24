@@ -80,7 +80,7 @@ def reptile_author_recognition(examples_size=512, examples=10, different_authors
     inner_lr = 0.01
     outer_lr = 0.001
 
-    writer = SummaryWriter('AuthorRecognition')
+    writer = SummaryWriter('AuthorRecognition/128_20_10')
 
     model = CNN_Classification(meta_env.glove_embedding, hidden_size, 100, meta_env.n_words, different_authors, examples_size).to(device)
     meta_model = CNN_Classification(meta_env.glove_embedding, hidden_size, 100, meta_env.n_words, different_authors, examples_size).to(device)
