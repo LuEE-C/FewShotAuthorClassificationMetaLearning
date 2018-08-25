@@ -230,7 +230,7 @@ class RedditDatasetConstructor:
         for author in authors_to_comments_dict:
             list_of_authors.append(author)
             authors_to_comments_dict[author] = ' '.join(authors_to_comments_dict[author])
-            if len(authors_to_comments_dict[author]) < 5000:
+            if len(authors_to_comments_dict[author].split()) < 1000:
                 bad_authors.append(author)
 
         for author in bad_authors:
