@@ -1,0 +1,5 @@
+tensorboardx
+torch >= 0.4
+torchtext
+tqdm
+numpy
