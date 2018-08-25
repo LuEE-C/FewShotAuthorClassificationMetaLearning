@@ -80,7 +80,7 @@ def reptile_author_recognition(examples_size=512, examples=10, different_authors
     inner_lr = 0.01
     outer_lr = 0.001
 
-    writer = SummaryWriter('RedditAuthorRecognition/ex_size_{}_examples_{}_diff_authors_{}'.format(examples_size, examples, different_authors))
+    writer = SummaryWriter('RedditAuthorRecognition/ex_size_{}_examples_{}_diff_authors_{}_hidden_size_{}'.format(examples_size, examples, different_authors, hidden_size))
 
     model = CNN_Classification(meta_env.glove_embedding, hidden_size, 100, meta_env.n_words, different_authors, examples_size).to(device)
     meta_model = CNN_Classification(meta_env.glove_embedding, hidden_size, 100, meta_env.n_words, different_authors, examples_size).to(device)
@@ -153,4 +153,4 @@ def reptile_author_recognition(examples_size=512, examples=10, different_authors
 
 
 if __name__ == '__main__':
-    reptile_author_recognition(examples_size=64, different_authors=50, examples=5)
+    reptile_author_recognition(examples_size=64, different_authors=50, examples=5, hidden_size=128)
