@@ -153,4 +153,4 @@ def reptile_author_recognition(examples_size=512, examples=10, different_authors
 
 
 if __name__ == '__main__':
-    reptile_author_recognition(examples_size=64, different_authors=20, examples=5)
+    reptile_author_recognition(examples_size=64, different_authors=50, examples=5)
