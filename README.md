@@ -9,13 +9,13 @@ The models wers trained for 2 days on the Guttenberg dataset on a Google Compute
 Some encouraging results were obtained on both the reddit comment dataset and the Guttenberg dataset.
 ## Reddit dataset
 Using as inputs 320 tokens worth of comments from an out of sample redditor in the reddit dataset, a 50 way top 1 accuracy of 92% was obtained on unseen data.
-![alt text](https://github.com/OctThe16th/FewShotAuthorClassificationMetaLearning/raw/master/images/AccuracyReddit50Way.PNG)
+![alt text](https://github.com/OctThe16th/FewShotAuthorClassificationMetaLearning/raw/master/images/AccuracyReddit50Way.PNG?)
 ## Guttenberg dataset
 Using as inputs 5120 tokens worth of text taken from different books from an out of sample author, a 5 way top 1 accuracy of 55% was obtrained on unseen data.
-![alt text](https://github.com/OctThe16th/FewShotAuthorClassificationMetaLearning/raw/master/images/AccuracyGuttenberg5Way.PNG)
+![alt text](https://github.com/OctThe16th/FewShotAuthorClassificationMetaLearning/raw/master/images/AccuracyGuttenberg5Way.PNG?)
 
 Using as inputs 1280 tokens worth of text taken from different books from an out of sample author, a 20 way top 1 accuracy of 17% was obtrained on unseen data.
-![alt text](https://github.com/OctThe16th/FewShotAuthorClassificationMetaLearning/raw/master/images/AccuracyGuttenberg20Way.PNG)
+![alt text](https://github.com/OctThe16th/FewShotAuthorClassificationMetaLearning/raw/master/images/AccuracyGuttenberg20Way.PNG?)
 
 
 The discrepancy between the results most likely can be explained by the fact that redditor tend to have very homogeneous
