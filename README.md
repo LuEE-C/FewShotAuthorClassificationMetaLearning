@@ -28,3 +28,4 @@ I got the toy example on sinus regression described in the Maml paper going to d
 # Possible uses
 Using reptile on NLP problems could be used for effective transfer learning.
 More specifically, few shot author recognition could be used to detect author that might wish to stay anonymous, i.e. automatically detecting fake news.
+It could also be used for recommendation system, by finding the authors that most could pass for the authors you like.
