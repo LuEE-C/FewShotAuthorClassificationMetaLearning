@@ -85,21 +85,23 @@ def reptile_author_recognition(examples_size=512, examples=10, different_authors
     model = CNN_Classification(meta_env.glove_embedding, hidden_size, 100, meta_env.n_words, different_authors, examples_size).to(device)
     meta_model = CNN_Classification(meta_env.glove_embedding, hidden_size, 100, meta_env.n_words, different_authors, examples_size).to(device)
 
+    model_optimizer = optim.Adam(params=model.parameters(), lr=outer_lr)
+    meta_model_optimizer = optim.SGD(params=meta_model.parameters(), lr=inner_lr)
+
     criterion = nn.CrossEntropyLoss()
 
     for ep in range(500000):
         x, y, val_x, val_y = meta_env.get_n_task(different_authors, examples, examples_size)
 
         meta_model.load_state_dict(model.state_dict())
-        optimizer = optim.SGD(params=meta_model.parameters(), lr=inner_lr)
         for i in range(10):
             meta_model.train()
             pred = meta_model(x)
             loss = criterion(pred, y)
 
-            optimizer.zero_grad()
+            meta_model_optimizer.zero_grad()
             loss.backward()
-            optimizer.step()
+            meta_model_optimizer.step()
 
             accuracy = accuracy_score(np.argmax(pred.detach().cpu().numpy(), axis=-1), y.cpu().numpy())
 
@@ -115,24 +117,23 @@ def reptile_author_recognition(examples_size=512, examples=10, different_authors
             writer.add_scalar('Train test loss at ' + str(i), val_loss.item(), ep)
             writer.add_scalar('Train test accuracy at ' + str(i), val_accuracy, ep)
 
-        old_state_dict = model.state_dict()
-        for p in old_state_dict:
-            old_state_dict[p] = old_state_dict[p] * (1 - outer_lr) + meta_model.state_dict()[p] * outer_lr
-        model.load_state_dict(old_state_dict)
+        for p, meta_p in zip(model.parameters(), meta_model.parameters()):
+            diff = p - meta_p
+            p.grad = diff
+        model_optimizer.step()
 
         if ep % 100 == 0:
             x, y, val_x, val_y = meta_env.get_validation_task(different_authors, examples, examples_size)
 
             meta_model.load_state_dict(model.state_dict())
-            optimizer = optim.SGD(params=meta_model.parameters(), lr=inner_lr)
             for i in range(10):
                 meta_model.train()
                 pred = meta_model(x)
                 loss = criterion(pred, y)
 
-                optimizer.zero_grad()
+                meta_model_optimizer.zero_grad()
                 loss.backward()
-                optimizer.step()
+                meta_model_optimizer.step()
 
                 accuracy = accuracy_score(np.argmax(pred.detach().cpu().numpy(), axis=-1), y.cpu().numpy())
 
