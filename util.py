@@ -155,8 +155,8 @@ class RedditDatasetConstructor:
 
     def split_validation_and_train_author(self):
 
-        if os.path.exists('pretrained_models/reddit_validation_account'):
-            self.validation_authors = pickle.load(open('pretrained_models/reddit_validation_account', 'rb'))
+        if os.path.exists('pretrained_models/validation_authors_reddit'):
+            self.validation_authors = pickle.load(open('pretrained_models/validation_authors_reddit', 'rb'))
         else:
             self.validation_authors = set(random.sample(self.author_set, 1000))
             pickle.dump(self.validation_authors, open('validation_authors_reddit', 'wb'))
