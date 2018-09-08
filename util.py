@@ -13,17 +13,20 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 class GutenbergConstructor:
-    def __init__(self):
+    def __init__(self, n_authors):
         self.author_to_work_dict, self.author_set = self.read_all_gutenberg()
         self.preprocess_guttenberg()
         self.words_to_indexes, self.indexes_to_words, self.n_words = self.map_words_to_indexes()
         self.glove_embedding = self.get_glove_embedding()
-        self.split_validation_and_train_author()
+        self.split_validation_and_train_author(n_authors)
 
-    def split_validation_and_train_author(self):
+    def split_validation_and_train_author(self, n_authors):
+        self.test_authors = set(random.sample(self.author_set, n_authors))
+        self.author_set = self.author_set - self.test_authors
         self.validation_authors = set(random.sample(self.author_set, 20))
         self.author_set = self.author_set - self.validation_authors
         pickle.dump(self.validation_authors, open('validation_authors', 'wb'))
+        pickle.dump(self.test_authors, open('test_authors', 'wb'))
         pickle.dump(self.author_set, open('train_authors', 'wb'))
 
     def get_n_task(self, tasks=20, examples=10, examples_size=64):
@@ -72,6 +75,29 @@ class GutenbergConstructor:
 
         return texts, targets, val_texts, val_targets
 
+    def get_test_task(self, tasks=20, examples=10, examples_size=256):
+        sampled_author = self.test_authors
+        targets = torch.tensor(np.repeat([i for i in range(tasks)], examples), dtype=torch.long, device=device)
+        val_targets = torch.tensor(np.repeat([i for i in range(tasks)], examples * 20), dtype=torch.long, device=device)
+
+        texts = []
+        for author in sampled_author:
+            length_of_work = len(self.author_to_work_dict[author])
+            examples_idx_start = np.random.random_integers(0, length_of_work - examples_size - 1, examples)
+            for idx in examples_idx_start:
+                texts.append(self.author_to_work_dict[author][idx: idx + examples_size])
+        texts = torch.tensor(np.array(texts), dtype=torch.long, device=device)
+
+        val_texts = []
+        for author in sampled_author:
+            length_of_work = len(self.author_to_work_dict[author])
+            examples_idx_start = np.random.random_integers(0, length_of_work - examples_size - 1, examples * 20)
+            for idx in examples_idx_start:
+                val_texts.append(self.author_to_work_dict[author][idx: idx + examples_size])
+        val_texts = torch.tensor(np.array(val_texts), dtype=torch.long, device=device)
+
+        return texts, targets, val_texts, val_targets
+
     # Make a dictionary of author to 1 string containing all of their work
     def read_all_gutenberg(self):
         author_to_book_dict = dict()
@@ -90,6 +116,7 @@ class GutenbergConstructor:
         for author in author_to_book_dict:
             list_of_author.append(author)
             author_to_book_dict[author] = ' '.join(author_to_book_dict[author])
+
         return author_to_book_dict, set(list_of_author)
 
     def preprocess_guttenberg(self):
@@ -138,10 +165,14 @@ class GutenbergConstructor:
         glove = vocab.GloVe(name='6B', dim=100)
 
         weights_matrix = np.zeros((self.n_words, 100))
-
+        print(len(self.words_to_indexes))
+        word_in_gloves = 0
         for word in tqdm(self.words_to_indexes):
+            if glove[word].sum().item() != 0:
+                word_in_gloves += 1
             idx = self.words_to_indexes[word]
             weights_matrix[idx] = glove[word]
+        print(word_in_gloves)
         return weights_matrix
 
 
@@ -155,9 +186,6 @@ class RedditDatasetConstructor:
 
     def split_validation_and_train_author(self):
 
-#         if os.path.exists('pretrained_models/validation_authors_reddit'):
-#             self.validation_authors = pickle.load(open('pretrained_models/validation_authors_reddit', 'rb'))
-#         else:
         self.validation_authors = set(random.sample(self.author_set, 1000))
         pickle.dump(self.validation_authors, open('validation_authors_reddit', 'wb'))
         pickle.dump(self.author_set, open('train_authors_reddit', 'wb'))
@@ -189,20 +217,18 @@ class RedditDatasetConstructor:
     def get_validation_task(self, tasks=20, examples=10, examples_size=256):
         sampled_author = random.sample(self.validation_authors, tasks)
         targets = torch.tensor(np.repeat([i for i in range(tasks)], examples), dtype=torch.long, device=device)
-        val_targets = torch.tensor(np.repeat([i for i in range(tasks)], examples * 20), dtype=torch.long, device=device)
+        val_targets = torch.tensor(np.repeat([i for i in range(tasks)], examples * 1000), dtype=torch.long, device=device)
 
         texts = []
         for author in sampled_author:
-            length_of_work = len(self.author_to_work_dict[author])
-            examples_idx_start = np.random.random_integers(0, length_of_work//2 - examples_size - 1, examples)
-            for idx in examples_idx_start:
-                texts.append(self.author_to_work_dict[author][idx: idx + examples_size])
+            for ex in examples:
+                texts.append(self.author_to_work_dict[author][ex * examples_size: (ex + 1) * examples_size])
         texts = torch.tensor(np.array(texts), dtype=torch.long, device=device)
 
         val_texts = []
         for author in sampled_author:
             length_of_work = len(self.author_to_work_dict[author])
-            examples_idx_start = np.random.random_integers(length_of_work//2, length_of_work - examples_size - 1, examples * 20)
+            examples_idx_start = np.random.random_integers(examples * examples_size, length_of_work - examples_size - 1, examples * 1000)
             for idx in examples_idx_start:
                 val_texts.append(self.author_to_work_dict[author][idx: idx + examples_size])
         val_texts = torch.tensor(np.array(val_texts), dtype=torch.long, device=device)
@@ -287,12 +313,12 @@ class RedditDatasetConstructor:
         glove = vocab.GloVe(name='6B', dim=100)
 
         weights_matrix = np.zeros((self.n_words, 100))
-
         for word in tqdm(self.words_to_indexes):
             idx = self.words_to_indexes[word]
             weights_matrix[idx] = glove[word]
         return weights_matrix
 
+
 if __name__ == '__main__':
-    red = RedditDatasetConstructor()
+    red = GutenbergConstructor()
     # gut.get_n_task()
