@@ -155,12 +155,12 @@ class RedditDatasetConstructor:
 
     def split_validation_and_train_author(self):
 
-        if os.path.exists('pretrained_models/validation_authors_reddit'):
-            self.validation_authors = pickle.load(open('pretrained_models/validation_authors_reddit', 'rb'))
-        else:
-            self.validation_authors = set(random.sample(self.author_set, 1000))
-            pickle.dump(self.validation_authors, open('validation_authors_reddit', 'wb'))
-            pickle.dump(self.author_set, open('train_authors_reddit', 'wb'))
+#         if os.path.exists('pretrained_models/validation_authors_reddit'):
+#             self.validation_authors = pickle.load(open('pretrained_models/validation_authors_reddit', 'rb'))
+#         else:
+        self.validation_authors = set(random.sample(self.author_set, 1000))
+        pickle.dump(self.validation_authors, open('validation_authors_reddit', 'wb'))
+        pickle.dump(self.author_set, open('train_authors_reddit', 'wb'))
         self.author_set = self.author_set - self.validation_authors
 
     def get_n_task(self, tasks=20, examples=10, examples_size=64):
